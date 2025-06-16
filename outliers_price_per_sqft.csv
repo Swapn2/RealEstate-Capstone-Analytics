@@ -1,0 +1,355 @@
+,property_type,society,sector,price,price_per_sqft,area,areaWithType,bedRoom,bathroom,balcony,floorNum,facing,agePossession,super_built_up_area,built_up_area,carpet_area,study room,servant room,store room,pooja room,others,furnishing_type,luxury_score
+30,flat,ompee k s residency,sector 110,1.6,26936.0,594.0,Carpet area: 66 (55.18 sq.m.),2,2,2,1.0,,Relatively New,,,66.0,0,0,0,0,0,1,0
+239,flat,tulip monsella,sector 53,8.25,28000.0,2946.0,Super Built up area 2940(273.13 sq.m.),3,4,3,8.0,,Undefined,2940.0,,,0,1,0,0,0,2,35
+244,flat,emaar digihomes,sector 62,4.25,26562.0,1600.0,Carpet area: 1600 (148.64 sq.m.),3,3,3,8.0,,Under Construction,,,1600.0,1,0,0,0,0,1,16
+271,flat,dlf the grove,sector 54,5.7,41245.0,1382.0,Built Up area: 1382 (128.39 sq.m.),3,3,3,1.0,East,Undefined,,1382.0,,0,0,0,0,0,1,46
+294,flat,puri the aravallis,sector 61,3.9,33209.0,1174.0,Carpet area: 1249.65 (116.1 sq.m.),3,4,3+,33.0,South,Undefined,,,1249.68879,0,1,0,0,0,1,158
+413,flat,central park resorts,sector 48,11.25,28266.0,3980.0,Carpet area: 3980 (369.75 sq.m.),4,5,3+,2.0,North-West,Relatively New,,,3980.0,0,1,0,1,0,1,45
+434,flat,m3m latitude,sector 65,4.6,26790.0,1717.0,Carpet area: 1717 (159.51 sq.m.),3,3,3,7.0,South,New Property,,,1717.0,1,1,1,1,0,1,115
+457,flat,ambience creacions,sector 22,4.1,28101.0,1459.0,Super Built up area 2781(258.36 sq.m.)Carpet area: 1459 sq.ft. (135.55 sq.m.),3,3,3+,2.0,North-East,New Property,2781.0,,1459.0,0,0,0,0,0,2,119
+658,flat,dlf the crest,sector 54,11.0,35483.0,3100.0,Carpet area: 3100 (288 sq.m.),4,5,3+,7.0,North-East,Relatively New,,,3100.0,1,1,0,1,0,1,49
+936,flat,dlf park place,sector 54,6.75,24963.0,2704.0,Super Built up area 2704(251.21 sq.m.)Carpet area: 1534 sq.ft. (142.51 sq.m.),4,4,2,8.0,North,Moderately Old,2704.0,,1534.0,0,1,0,0,0,2,135
+1028,flat,dlf the icon,sector 43,6.0,26086.0,2300.0,Carpet area: 2300 (213.68 sq.m.),4,4,3+,18.0,North-East,Old Property,,,2300.0,0,1,0,0,0,0,150
+1037,flat,dlf park place,sector 54,4.85,30180.0,1607.0,Super Built up area 1983(184.23 sq.m.)Built Up area: 1785 sq.ft. (165.83 sq.m.)Carpet area: 1607 sq.ft. (149.3 sq.m.),3,4,3+,6.0,North,Moderately Old,1983.0,1785.0,1607.0,0,1,0,0,0,2,158
+1282,flat,dlf park place,sector 54,5.75,24688.0,2329.0,Super Built up area 2329(216.37 sq.m.)Built Up area: 1900 sq.ft. (176.52 sq.m.)Carpet area: 1700 sq.ft. (157.94 sq.m.),3,4,3,12.0,North-East,Relatively New,2329.0,1900.0,1700.0,0,1,0,0,0,2,174
+1283,flat,dlf the belaire,sector 54,10.0,24557.0,4072.0,Super Built up area 4072(378.3 sq.m.)Built Up area: 3000 sq.ft. (278.71 sq.m.)Carpet area: 2800 sq.ft. (260.13 sq.m.),4,5,3+,17.0,North,Moderately Old,4072.0,3000.0,2800.0,0,1,0,0,0,2,167
+1482,flat,vipul belmonte,sector 53,6.0,24489.0,2450.0,Super Built up area 2450(227.61 sq.m.),3,4,3+,6.0,North-West,Moderately Old,2450.0,,,0,1,0,0,1,0,26
+1483,flat,dlf park place,sector 54,4.85,25866.0,1875.0,Super Built up area 1875(174.19 sq.m.),3,4,3+,25.0,South-East,Relatively New,1875.0,,,0,1,0,0,0,0,26
+1484,flat,dlf park place,sector 54,4.86,25920.0,1875.0,Super Built up area 1875(174.19 sq.m.),3,4,3+,7.0,West,Relatively New,1875.0,,,0,1,0,0,0,0,49
+1486,flat,central park resorts,sector 48,9.3,24926.0,3731.0,Super Built up area 3931(365.2 sq.m.)Built Up area: 3831 sq.ft. (355.91 sq.m.)Carpet area: 3731 sq.ft. (346.62 sq.m.),4,4,3+,10.0,North-East,Moderately Old,3931.0,3831.0,3731.0,1,1,1,1,0,0,67
+2081,flat,housing board colony,sector 51,0.3,41666.0,72.0,Carpet area: 72 (6.69 sq.m.),1,1,0,0.0,,Moderately Old,,,72.0,1,0,0,0,0,1,15
+2115,flat,dlf the grove,sector 43,6.0,25000.0,2400.0,Carpet area: 2400 (222.97 sq.m.),4,4,2,1.0,South-West,Undefined,,,2400.0,0,1,0,0,0,0,49
+2173,flat,adani brahma samsara vilasa,sector 63,3.25,29545.0,1100.0,Built Up area: 2700 (250.84 sq.m.)Carpet area: 1100 sq.ft. (102.19 sq.m.),3,3,3,4.0,North-East,New Property,,2700.0,1100.0,0,0,0,0,1,1,41
+2250,flat,breez global hill view,sohna road,2.6,46917.0,554.0,Carpet area: 554.16 (51.48 sq.m.),2,2,2,6.0,,New Property,,,554.1255719999999,0,0,0,0,0,1,42
+2319,flat,birla navya,sector 63,3.23,26875.0,1202.0,Super Built up area 2150(199.74 sq.m.)Carpet area: 1200 sq.ft. (111.48 sq.m.),3,3,3,4.0,West,New Property,2150.0,,1200.0,0,1,0,0,0,1,52
+2359,flat,birla navya,sector 63,3.5,25925.0,1350.0,Carpet area: 1350 (125.42 sq.m.),3,3,3,1.0,,Under Construction,,,1350.0,0,0,0,0,0,1,38
+2520,flat,ambience caitriona,sector 24,14.0,200000.0,700.0,Built Up area: 700 (65.03 sq.m.),4,5,3,3.0,East,Undefined,,700.0,,0,0,0,0,0,1,0
+2659,flat,unitech vistas,sector 70,9.0,57507.0,1565.0,Built Up area: 1565 (145.39 sq.m.),3,3,0,7.0,,Undefined,,1565.0,,0,0,0,0,0,1,0
+2790,flat,tulip monsella,sector 53,7.4,33198.0,2229.0,Carpet area: 2229 (207.08 sq.m.),4,4,3,21.0,,Undefined,,,2229.0,0,0,0,0,0,1,35
+2883,flat,lig flat,sector 40,1.5,50000.0,300.0,Built Up area: 300 (27.87 sq.m.),1,1,0,0.0,,Undefined,,300.0,,0,0,0,0,0,1,0
+2942,flat,dlf the crest,sector 54,11.0,35222.0,3123.0,Super Built up area 3123(290.14 sq.m.),4,6,3,7.0,,Relatively New,3123.0,,,0,1,0,0,0,2,125
+2944,house,independent,sector 43,2.1,38251.0,549.0,Plot area 61(51 sq.m.),10,10,3+,5.0,West,New Property,,549.0,,0,1,0,0,0,1,20
+2945,house,independent,sector 54,5.0,43066.0,1161.0,Plot area 129(107.86 sq.m.),21,21,3+,5.0,North,Relatively New,,1161.0,,0,1,0,0,0,2,49
+2946,house,independent,sector 43,3.0,53763.0,558.0,Plot area 62(51.84 sq.m.),12,12,3+,5.0,West,New Property,,558.0,,0,0,0,0,1,2,20
+2947,house,independent,sector 43,4.5,39062.0,1152.0,Plot area 128(107.02 sq.m.),20,20,3+,4.0,East,Relatively New,,1152.0,,0,1,0,0,0,2,22
+2948,house,emaar mgf marbella,sector 66,12.0,37037.0,3240.0,Plot area 360(301.01 sq.m.),5,5,3+,3.0,East,New Property,,3240.0,,0,1,1,1,0,0,106
+2949,house,luxury dlf city floors,sector 26,20.0,48889.0,4091.0,Plot area 500(418.06 sq.m.),16,16,3+,4.0,,New Property,,500.0,,0,1,0,0,0,0,31
+2950,house,independent,sector 25,10.85,38150.0,2844.0,Plot area 316(264.22 sq.m.),6,6,1,3.0,North-East,Relatively New,,2844.0,,0,0,1,0,0,0,136
+2952,house,independent,sector 25,4.45,32963.0,1350.0,Plot area 150(125.42 sq.m.),4,3,3+,2.0,West,Moderately Old,,1350.0,,0,0,1,0,0,1,79
+2953,house,independent,sector 28,9.0,27778.0,3240.0,Plot area 360(301.01 sq.m.),6,7,3+,3.0,North,Moderately Old,,3240.0,,1,1,1,1,0,1,67
+2954,house,dlf city plots phase 3,sector 24,5.0,34083.0,1467.0,Plot area 163(136.29 sq.m.),13,13,3+,4.0,North,New Property,,1467.0,,0,0,0,1,0,2,91
+2955,house,independent,sector 26,15.0,33200.0,4518.0,Plot area 502(419.74 sq.m.),5,6,3+,3.0,North,Moderately Old,,4518.0,,1,1,1,1,0,0,78
+2956,house,independent,sector 43,8.25,30556.0,2700.0,Plot area 300(250.84 sq.m.),5,6,3+,3.0,West,Moderately Old,,2700.0,,1,1,1,1,0,0,64
+2957,house,dlf city plots phase 2,sector 25,10.75,29861.0,3600.0,Plot area 400(334.45 sq.m.),9,9,3+,3.0,South-West,Old Property,,3600.0,,0,1,1,1,0,1,73
+2959,house,unitech espace,sector 50,7.35,41762.0,1760.0,Plot area 240(200.67 sq.m.),4,4,3+,3.0,South,Moderately Old,,240.0,,0,1,0,1,0,0,52
+2962,house,emaar mgf marbella,sector 66,12.0,38095.0,3150.0,Plot area 350(292.64 sq.m.),5,6,3+,3.0,North-East,Relatively New,,3150.0,,0,1,1,0,0,0,153
+2963,house,independent,sector 48,8.4,25926.0,3240.0,Plot area 360(301.01 sq.m.),4,4,3,2.0,,Old Property,,3240.0,,0,1,0,1,0,0,15
+2964,house,vipul tatvam villa,sector 48,8.5,26235.0,3240.0,Plot area 360(301.01 sq.m.),4,4,2,,East,Moderately Old,,3240.0,,0,1,1,1,0,1,88
+2965,house,independent,sector 25,7.6,38760.0,1961.0,Plot area 215(179.77 sq.m.),9,9,3,4.0,East,Relatively New,,1935.0,,1,0,1,1,0,0,84
+2966,house,ansal sushant lok plots,sector 43,7.0,25926.0,2700.0,Plot area 300(250.84 sq.m.),5,5,3+,3.0,North-East,Relatively New,,2700.0,,1,1,0,1,0,0,41
+2970,house,independent,sector 50,10.56,32593.0,3240.0,Plot area 360(301.01 sq.m.),5,5,3,3.0,,Moderately Old,,3240.0,,0,1,0,0,0,1,20
+2972,house,independent,sector 25,10.0,37037.0,2700.0,Plot area 300(250.84 sq.m.),5,6,3,3.0,North,Old Property,,2700.0,,0,1,1,0,0,0,64
+2973,house,independent,sector 25,9.0,28490.0,3159.0,Plot area 351(293.48 sq.m.),10,10,3,3.0,East,Old Property,,3159.0,,0,0,0,1,0,0,64
+2976,house,floor wise designer kothi,sector 25,13.0,48148.0,2700.0,Plot area 300(250.84 sq.m.),12,16,3+,4.0,North-East,New Property,,2700.0,,1,1,1,1,0,2,144
+2978,house,independent,sector 25,9.0,33333.0,2700.0,Plot area 300(250.84 sq.m.),5,5,3,3.0,North,Old Property,,2700.0,,1,1,1,1,0,1,56
+2979,house,independent,sector 26,5.8,32222.0,1800.0,Plot area 200(167.23 sq.m.),5,5,3+,2.0,North,Old Property,,1800.0,,1,1,1,1,0,1,53
+2980,house,independent,sector 55,7.49,27741.0,2700.0,Plot area 300(250.84 sq.m.),12,12,3+,4.0,South-East,Relatively New,,2700.0,,1,1,0,1,0,0,49
+2981,house,independent,sector 43,13.5,50000.0,2700.0,Plot area 300(250.84 sq.m.),16,16,3+,4.0,North-West,Relatively New,,2700.0,,1,1,0,1,1,1,41
+2982,house,independent,sector 56,11.95,43534.0,2745.0,Plot area 305(255.02 sq.m.),12,12,3+,4.0,West,Relatively New,,2745.0,,0,1,0,0,0,0,21
+2983,house,independent,sector 56,12.39,45889.0,2700.0,Plot area 300(250.84 sq.m.),16,18,3+,4.0,North-East,New Property,,2700.0,,0,1,0,1,0,0,49
+2984,house,nul,sector 25,6.25,34722.0,1800.0,Plot area 200(167.23 sq.m.),5,5,3,2.0,East,Moderately Old,,1800.0,,0,1,0,1,0,0,112
+2987,house,independent,sector 43,5.75,29716.0,1935.0,Plot area 215(179.77 sq.m.),4,4,2,2.0,North,Old Property,,1935.0,,0,1,1,1,0,1,34
+2990,house,independent,sector 45,17.0,37777.0,4500.0,Plot area 4500(418.06 sq.m.),5,8,3+,3.0,North-East,Relatively New,,4500.0,,1,1,1,1,0,2,152
+2992,house,uppal southend,sector 49,3.75,25562.0,1467.0,Plot area 163(136.29 sq.m.),6,6,3,3.0,East,Moderately Old,,1467.0,,0,0,0,0,1,1,49
+2993,house,vipul tatvam villa,sector 48,7.25,27971.0,2592.0,Plot area 288(240.8 sq.m.),3,4,2,2.0,South,Moderately Old,,2592.0,,1,1,1,1,0,0,115
+2995,house,independent,sector 55,3.55,24500.0,1449.0,Plot area 161(134.62 sq.m.),4,4,3+,2.0,,Old Property,,1449.0,,0,0,0,0,0,0,27
+3001,house,independent,sector 43,6.5,35400.0,1836.0,Plot area 215(179.77 sq.m.)Built Up area: 215 sq.yards (179.77 sq.m.),5,4,3+,3.0,South-East,Moderately Old,,215.0,,0,1,0,1,0,0,54
+3002,house,independent,sector 40,9.5,40135.0,2367.0,Plot area 263(219.9 sq.m.),12,12,3+,4.0,,New Property,,2367.0,,0,0,1,0,0,0,57
+3006,house,emaar mgf marbella,sector 66,8.8,41615.0,2115.0,Built Up area: 267 (223.25 sq.m.),4,4,3+,3.0,South-East,Relatively New,,267.0,,0,1,1,1,0,1,107
+3009,house,independent,sector 50,10.45,38703.0,2700.0,Plot area 2700(250.84 sq.m.)Built Up area: 4000 sq.ft. (371.61 sq.m.),4,5,2,3.0,North,Moderately Old,,4000.0,,1,1,0,1,0,0,142
+3016,house,independent,sector 56,11.5,42032.0,2736.0,Plot area 304(254.18 sq.m.),12,13,3+,4.0,West,Relatively New,,2736.0,,1,1,0,1,0,0,49
+3026,house,emaar mgf marbella,sector 66,8.7,38667.0,2250.0,Plot area 250(209.03 sq.m.)Built Up area: 267 sq.yards (223.25 sq.m.),4,5,2,3.0,East,New Property,,267.0,,1,1,0,0,0,1,144
+3027,house,international city by sobha phase 2,sector 109,12.5,26667.0,4687.0,Plot area 500(418.06 sq.m.),5,6,3,3.0,East,Relatively New,,4500.0,,1,1,1,1,0,1,63
+3029,house,international city by sobha phase 2,sector 109,9.5,26389.0,3600.0,Plot area 400(334.45 sq.m.),7,6,3,3.0,West,Relatively New,,3600.0,,1,1,0,1,0,1,138
+3031,house,international city by sobha phase 2,sector 109,6.2,25514.0,2430.0,Plot area 270(225.75 sq.m.),5,5,2,2.0,South-West,Relatively New,,2430.0,,0,1,0,0,0,1,135
+3032,house,huda sector-56 gurgaon,sector 56,3.6,24845.0,1449.0,Plot area 161(134.62 sq.m.),5,5,3+,3.0,North-East,Moderately Old,,1449.0,,0,0,0,0,1,1,47
+3034,house,international city by sobha phase 1,sector 109,5.85,26423.0,2214.0,Plot area 246(205.69 sq.m.),4,5,3+,2.0,East,Relatively New,,2214.0,,0,1,0,0,0,0,85
+3037,house,independent,sector 25,6.6,36667.0,1800.0,Plot area 200(167.23 sq.m.),6,7,3+,2.0,East,Moderately Old,,1800.0,,1,1,0,0,0,0,119
+3043,house,independent,sector 4,0.58,86567.0,67.0,Plot area 67(6.22 sq.m.),2,2,1,2.0,West,Moderately Old,,67.0,,0,0,0,1,1,1,7
+3044,house,independent,sector 4,0.65,92857.0,70.0,Plot area 70(6.5 sq.m.),1,1,1,1.0,South-East,Moderately Old,,70.0,,0,0,0,0,1,1,21
+3045,house,independent,sector 4,0.61,100000.0,61.0,Plot area 61(5.67 sq.m.),2,2,2,2.0,South-East,Moderately Old,,61.0,,0,0,0,0,1,1,14
+3046,house,independent,sector 4,0.67,88157.0,76.0,Plot area 76(7.06 sq.m.),3,3,2,2.0,South,Relatively New,,76.0,,0,0,0,0,1,1,7
+3047,house,ansal sushant lok plots,sector 43,5.8,29974.0,1935.0,Plot area 215(179.77 sq.m.),6,6,3,2.0,South-West,Relatively New,,1935.0,,0,1,0,0,1,0,49
+3048,house,international city by sobha phase 1,sector 109,6.0,24691.0,2430.0,Plot area 270(225.75 sq.m.),4,5,3+,2.0,North,Relatively New,,2430.0,,0,1,0,0,0,0,96
+3050,house,private house,sector 55,7.05,46906.0,1503.0,Plot area 167(139.63 sq.m.),18,18,3+,4.0,North-East,Relatively New,,1503.0,,0,0,0,0,1,2,57
+3051,house,independent,sector 11,4.5,25000.0,1800.0,Plot area 200(167.23 sq.m.),16,16,3+,4.0,South,Relatively New,,1800.0,,0,0,0,0,0,0,20
+3053,house,independent,sector 43,2.5,25960.0,963.0,Plot area 107(89.47 sq.m.),7,7,3,4.0,West,Relatively New,,963.0,,0,0,0,0,1,2,20
+3054,house,independent,sector 43,5.5,28424.0,1935.0,Plot area 215(179.77 sq.m.),1,1,0,1.0,South-West,Old Property,,1935.0,,0,0,0,0,1,1,12
+3055,house,unitech deerwood chase,sector 50,15.0,33333.0,4500.0,Plot area 500(418.06 sq.m.),4,4,2,2.0,West,Moderately Old,,4500.0,,0,1,0,0,0,1,160
+3058,house,international city by sobha phase 2,sector 109,11.3,25111.0,4500.0,Plot area 500(418.06 sq.m.)Built Up area: 480 sq.yards (401.34 sq.m.)Carpet area: 460 sq.yards (384.62 sq.m.),7,5,3+,4.0,East,Relatively New,,480.0,460.0,1,1,0,1,1,1,49
+3059,house,international city by sobha phase 2,sector 109,11.25,25000.0,4500.0,Plot area 500(418.06 sq.m.),7,5,3+,4.0,North-East,Relatively New,,4500.0,,1,1,0,1,0,1,42
+3062,house,independent,sector 12,1.0,74074.0,135.0,Plot area 135(12.54 sq.m.)Built Up area: 3750 sq.ft. (348.39 sq.m.),9,7,3+,3.0,North,Moderately Old,,3750.0,,0,0,1,1,0,1,7
+3065,house,independent,sector 24,1.45,26852.0,540.0,Plot area 60(50.17 sq.m.),3,3,1,,,Old Property,,540.0,,0,0,0,0,0,1,9
+3069,house,independent,sector 41,7.0,28283.0,2475.0,Plot area 275(229.94 sq.m.),7,7,3+,3.0,South-West,Moderately Old,,2475.0,,1,1,1,1,0,2,151
+3071,house,independent,sector 56,4.0,26613.0,1503.0,Plot area 167(139.63 sq.m.),4,4,3+,2.0,,Relatively New,,1503.0,,0,0,0,0,0,0,24
+3079,house,dlf city plots,sector 26,4.0,40775.0,981.0,Plot area 109(91.14 sq.m.),4,3,2,2.0,,Relatively New,,981.0,,0,0,0,0,0,0,0
+3084,house,independent,sector 3,0.9,80357.0,112.0,Built Up area: 112 (10.41 sq.m.),3,3,0,2.0,,Undefined,,112.0,,0,0,0,0,0,1,0
+3087,house,housing board colony,sector 28,3.5,25926.0,1350.0,Plot area 150(125.42 sq.m.),6,6,3,3.0,,Relatively New,,1350.0,,0,0,0,0,0,1,0
+3089,house,independent,sector 26,6.0,33333.0,1800.0,Plot area 200(167.23 sq.m.),8,5,3+,3.0,,Old Property,,1800.0,,0,0,0,0,0,0,9
+3101,house,independent,sector 56,7.25,29336.0,2471.0,Plot area 303(253.35 sq.m.),8,8,3+,0.0,North-East,Moderately Old,,303.0,,0,0,0,0,0,0,24
+3111,house,independent,sector 26,7.0,39265.0,1783.0,Plot area 1782.72(165.62 sq.m.),5,5,2,3.0,North-East,Relatively New,,1782.72,,0,1,0,0,0,1,9
+3113,house,independent,sector 38,8.0,230547.0,347.0,Built Up area: 347 (32.24 sq.m.)Carpet area: 215 sq.ft. (19.97 sq.m.),10,10,3+,1.0,North,Undefined,,347.0,215.0,0,0,0,0,0,1,0
+3115,house,independent,sector 13,0.62,32291.0,192.0,Built Up area: 192 (17.84 sq.m.),6,6,0,3.0,,Undefined,,192.0,,0,0,0,0,0,1,0
+3116,house,independent,sector 6,1.0,41666.0,240.0,Built Up area: 240 (22.3 sq.m.),6,4,0,3.0,,Undefined,,240.0,,0,0,0,0,0,1,0
+3118,house,independent,sector 28,0.45,90000.0,50.0,Built Up area: 50 (4.65 sq.m.),5,3,0,1.0,,Undefined,,50.0,,0,0,0,0,0,1,0
+3125,house,independent,sector 3,0.75,57692.0,130.0,Built Up area: 130 (12.08 sq.m.),2,2,0,1.0,,Undefined,,130.0,,0,0,0,0,0,1,0
+3140,house,independent,sector 9,1.1,55000.0,200.0,Plot area 200(18.58 sq.m.),4,3,1,2.0,North-East,Old Property,,200.0,,0,0,0,0,0,1,0
+3146,house,independent,sector 25,16.0,26667.0,6000.0,Built Up area: 6000 (557.42 sq.m.),6,5,2,3.0,East,Relatively New,,6000.0,,0,0,0,0,0,1,0
+3147,house,malibu towne,sector 47,8.5,53125.0,1600.0,Built Up area: 1600 (148.64 sq.m.),12,12,3+,4.0,North,New Property,,1600.0,,0,0,0,0,0,0,99
+3149,house,independent,sector 43,14.0,39886.0,3510.0,Plot area 390(326.09 sq.m.),9,9,3+,4.0,North,Moderately Old,,3510.0,,0,1,0,0,0,1,7
+3150,house,"bhim nagar, sector 6",sector 6,0.85,126865.0,67.0,Plot area 67(6.22 sq.m.),5,2,2,1.0,,Old Property,,67.0,,0,0,0,1,0,1,29
+3151,house,independent,sector 7,1.35,40909.0,330.0,Built Up area: 330 (30.66 sq.m.),4,5,0,3.0,,Undefined,,330.0,,0,0,0,0,0,1,0
+3152,house,independent,sector 50,13.2,27155.0,4861.0,Built Up area: 4861 (451.6 sq.m.),6,6,0,2.0,,Undefined,,4861.0,,0,0,0,0,0,1,0
+3164,house,independent,sector 105,0.5,50000.0,100.0,Built Up area: 100 (9.29 sq.m.),2,2,0,1.0,,Undefined,,100.0,,0,0,0,0,0,1,0
+3174,house,independent,sector 8,1.6,28674.0,558.0,Plot area 62(51.84 sq.m.),4,6,1,3.0,,Relatively New,,558.0,,0,0,0,0,0,1,0
+3185,house,sector 14 rwa,sector 14,6.5,26000.0,2500.0,Plot area 2500(232.26 sq.m.),5,5,0,4.0,,Moderately Old,,2500.0,,0,0,0,0,0,1,0
+3189,house,ansal sushant lok plots,sector 43,3.3,26570.0,1242.0,Plot area 138(115.39 sq.m.),1,1,0,,,Under Construction,,1242.0,,0,0,0,0,0,1,0
+3192,house,independent,sector 12,3.5,133079.0,263.0,Plot area 263(24.43 sq.m.)Built Up area: 4800 sq.ft. (445.93 sq.m.)Carpet area: 4400 sq.ft. (408.77 sq.m.),8,8,3+,3.0,South-East,Relatively New,,4800.0,4400.0,1,1,0,1,0,2,77
+3196,house,independent,sector 4,1.25,78125.0,160.0,Built Up area: 160 (14.86 sq.m.),2,3,0,1.0,,Undefined,,160.0,,0,0,0,0,0,1,0
+3199,house,dlf the grove,sector 54,5.7,211111.0,270.0,Built Up area: 270 (25.08 sq.m.),4,4,0,1.0,,Undefined,,270.0,,0,0,0,0,0,1,46
+3200,house,independent,sector 104,0.8,80000.0,100.0,Plot area 100(9.29 sq.m.),13,6,3+,3.0,South,Moderately Old,,100.0,,1,1,0,1,1,1,0
+3201,house,independent,sector 70a,2.1,35000.0,600.0,Carpet area: 600 (55.74 sq.m.),3,2,1,3.0,,New Property,,,600.0,0,0,0,0,0,1,0
+3203,house,rk excelo,sector 12,0.6,120000.0,50.0,Plot area 50(4.65 sq.m.)Built Up area: 30 sq.ft. (2.79 sq.m.)Carpet area: 15 sq.ft. (1.39 sq.m.),5,3,2,3.0,North,Moderately Old,,30.0,15.0,0,0,0,0,1,1,0
+3205,house,independent,sector 28,4.5,125000.0,360.0,Built Up area: 360 (33.45 sq.m.),4,4,0,4.0,,Undefined,,360.0,,0,0,0,0,0,1,0
+3208,house,vipul tatvam villa,sector 48,8.5,26235.0,3240.0,Plot area 360(301.01 sq.m.),4,6,3,3.0,North,Old Property,,3240.0,,0,1,0,1,1,1,49
+3210,house,independent,sector 12,6.0,315789.0,190.0,Plot area 190(17.65 sq.m.)Carpet area: 1600 sq.ft. (148.64 sq.m.),9,6,2,2.0,North-East,Old Property,,,1600.0,0,0,0,0,0,1,0
+3213,house,ansal api esencia,sector 67,1.85,74000.0,250.0,Carpet area: 250 (23.23 sq.m.),3,3,3,1.0,,Undefined,,,250.0,0,0,0,0,0,1,49
+3214,house,aindependentt raj estates,sector 63,8.5,27139.0,3132.0,Plot area 348(290.97 sq.m.),6,6,3+,3.0,East,Under Construction,,3132.0,,0,0,1,1,0,1,29
+3219,house,independent,sector 24,3.2,59259.0,540.0,Plot area 60(50.17 sq.m.),14,14,3+,6.0,West,Relatively New,,540.0,,0,0,0,0,0,2,15
+3220,house,independent,sector 4,0.6,105263.0,57.0,Plot area 57(5.3 sq.m.),3,3,1,2.0,,Old Property,,57.0,,0,0,0,0,1,1,0
+3223,house,international city by sobha phase 1,sector 109,6.1,25103.0,2430.0,Plot area 270(225.75 sq.m.),5,6,3+,2.0,,Moderately Old,,2430.0,,0,1,0,0,0,1,30
+3229,house,unitech espace,sector 50,11.5,35494.0,3240.0,Built Up area: 3240 (301.01 sq.m.),5,6,0,1.0,North-West,Undefined,,3240.0,,0,0,0,0,0,1,0
+3233,house,shree krishna homes,sector 104,0.48,50000.0,96.0,Plot area 80(7.43 sq.m.)Built Up area: 795 sq.ft. (73.86 sq.m.)Carpet area: 720 sq.ft. (66.89 sq.m.),2,2,1,1.0,North-East,New Property,,795.0,720.0,1,0,0,1,1,1,44
+3241,house,independent,sector 31,4.6,32258.0,1426.0,Built Up area: 1426 (132.48 sq.m.)Carpet area: 1069 sq.ft. (99.31 sq.m.),2,2,2,2.0,East,Undefined,,1426.0,1069.0,0,0,0,0,0,1,0
+3245,house,huda housing board colony,sector 31,4.6,31506.0,1460.0,Plot area 1460(135.64 sq.m.),6,4,3+,3.0,East,Old Property,,1460.0,,0,0,0,0,1,1,8
+3248,house,independent,sector 24,10.0,229885.0,435.0,Carpet area: 435 (40.41 sq.m.),8,10,3+,1.0,West,Undefined,,,435.0,0,0,0,0,0,1,0
+3255,house,independent,sector 17,3.5,218750.0,160.0,Built Up area: 160 (14.86 sq.m.),6,6,3+,3.0,North-West,Undefined,,160.0,,0,0,0,0,0,1,0
+3256,house,not applicable,sector 4,0.8,54794.0,146.0,Plot area 146(13.56 sq.m.),5,4,3,3.0,,Under Construction,,146.0,,0,0,0,0,0,1,0
+3259,house,independent,sector 25,13.5,37313.0,3618.0,Plot area 402(336.12 sq.m.),5,6,3+,4.0,North-East,Old Property,,3618.0,,0,0,0,0,1,0,79
+3260,house,independent,sector 13,0.5,90909.0,55.0,Plot area 55(5.11 sq.m.),12,4,3,4.0,,Old Property,,55.0,,0,0,0,0,0,1,15
+3269,house,huda plot sector 38,sector 38,4.3,245398.0,175.0,Plot area 163(15.14 sq.m.)Built Up area: 145 sq.ft. (13.47 sq.m.),13,13,3+,5.0,North-West,Relatively New,,145.0,,0,0,0,0,0,2,7
+3275,house,ardee city,sector 52,5.5,183333.0,300.0,Plot area 300(27.87 sq.m.),9,9,3+,3.0,South,Moderately Old,,300.0,,0,1,0,1,1,0,26
+3283,house,dlf city plots phase 3,sector 24,1.44,26667.0,540.0,Plot area 60(50.17 sq.m.),4,2,2,1.0,,Old Property,,540.0,,0,0,0,0,0,1,8
+3287,house,housing board colony,sector 28,5.5,30556.0,1800.0,Plot area 200(167.23 sq.m.),4,3,3,2.0,North,Old Property,,1800.0,,0,0,0,1,1,0,22
+3290,house,independent,sector 47,4.3,29311.0,1467.0,Plot area 163(136.29 sq.m.),6,4,2,2.0,,Moderately Old,,1467.0,,0,0,0,0,1,1,0
+3292,house,independent,sector 24,3.25,30384.0,1070.0,Plot area 1069.63(99.37 sq.m.),4,4,3,3.0,,Old Property,,1069.63,,0,0,0,0,0,1,15
+3296,house,independent,sector 105,0.55,98214.0,56.0,Built Up area: 56 (5.2 sq.m.),4,4,0,2.0,,Undefined,,56.0,,0,0,0,0,0,1,0
+3302,house,independent,sector 105,0.38,76000.0,50.0,Carpet area: 50 (4.65 sq.m.),2,2,2,1.0,,Undefined,,,50.0,0,0,0,0,0,1,0
+3303,house,unitech escape,sector 50,12.0,37037.0,3240.0,Carpet area: 360 (301.01 sq.m.),5,6,3+,3.0,East,Undefined,,,360.0,0,0,0,0,0,1,66
+3304,house,project housing board colony,sector 31,8.0,63492.0,1260.0,Built Up area: 140 (117.06 sq.m.),2,1,0,1.0,,Undefined,,140.0,,0,0,0,0,0,1,0
+3315,house,raj villas,sector 52,8.0,25543.0,3132.0,Carpet area: 348 (290.97 sq.m.),6,5,3+,4.0,East,Undefined,,,348.0,0,0,0,0,0,1,0
+3321,house,unitech uniworld resorts,sector 33,10.0,181818.0,550.0,Plot area 550(51.1 sq.m.),5,6,3,4.0,North-East,New Property,,550.0,,1,1,0,0,0,1,26
+3322,house,independent,sector 47,4.6,26620.0,1728.0,Plot area 192(160.54 sq.m.),7,6,3+,4.0,,Moderately Old,,1728.0,,0,0,0,0,0,2,51
+3339,house,independent,sector 13,9.0,100000.0,900.0,Plot area 900(83.61 sq.m.),10,5,3+,4.0,,Old Property,,900.0,,0,0,0,0,0,1,0
+3352,house,independent,sector 25,13.0,45710.0,2844.0,Plot area 316(264.22 sq.m.),6,8,3+,,,Relatively New,,2844.0,,1,1,1,1,0,2,0
+3355,house,independent,sector 43,3.35,26973.0,1242.0,Plot area 138(115.39 sq.m.),1,1,0,1.0,East,Old Property,,1242.0,,0,0,0,0,0,1,9
+3356,house,independent,sector 50,7.0,32407.0,2160.0,Built Up area: 240 (200.67 sq.m.),3,2,0,1.0,,Undefined,,240.0,,0,0,0,0,0,1,0
+3368,house,ss omnia,sector 86,0.42,84000.0,50.0,Plot area 50(4.65 sq.m.),5,3,2,3.0,,Relatively New,,50.0,,0,0,0,0,0,1,0
+3371,house,independent,sector 26,4.5,33333.0,1350.0,Plot area 150(125.42 sq.m.),5,5,3+,2.0,,Old Property,,1350.0,,0,0,0,0,0,1,7
+3378,house,independent,sector 24,11.0,28898.0,3806.0,Plot area 3806.45(353.63 sq.m.)Built Up area: 5000 sq.ft. (464.52 sq.m.),8,11,3+,3.0,East,Old Property,,5000.0,,1,1,0,1,1,0,39
+3379,house,adani brahma samsara,sector 60,18.02,28200.0,6390.0,Built Up area: 6390 (593.65 sq.m.),9,12,3+,3.0,North-East,Relatively New,,6390.0,,0,1,0,0,0,0,146
+3383,house,independent,sector 43,1.9,35185.0,540.0,Plot area 60(50.17 sq.m.)Built Up area: 60 sq.yards (50.17 sq.m.),3,3,3+,3.0,,Old Property,,60.0,,0,0,0,0,0,2,0
+3387,house,suncity township,sector 54,2.0,30968.0,646.0,Plot area 60Built Up area: 60 sq.m.Carpet area: 59 sq.m.,9,9,3,11.0,North,Relatively New,,60.0,59.0,0,1,0,0,0,2,7
+3395,house,independent,sector 105,9.9,49500.0,2000.0,Built Up area: 2000 (185.81 sq.m.)Carpet area: 1800 sq.ft. (167.23 sq.m.),2,2,2,3.0,North,Undefined,,2000.0,1800.0,0,0,0,0,0,1,0
+3398,house,ansal,sector 43,1.85,308333.0,60.0,Plot area 60(5.57 sq.m.),8,8,3+,5.0,North-West,Relatively New,,60.0,,0,0,0,0,0,1,53
+3405,house,independent,sector 24,3.5,32407.0,1080.0,Plot area 120(100.34 sq.m.),5,4,3,3.0,North-West,Old Property,,1080.0,,0,0,0,0,0,1,15
+3412,house,independent,sector 50,12.5,40611.0,3078.0,Plot area 342(285.96 sq.m.),6,5,3,4.0,East,Moderately Old,,3078.0,,1,1,0,1,0,0,23
+3413,house,u block dlf phase 3 road no 21,sector 24,1.6,29630.0,540.0,Plot area 60(50.17 sq.m.),7,5,3+,4.0,,Old Property,,540.0,,0,0,0,0,0,1,0
+3414,house,dlf city plots phase 3,sector 24,1.6,29629.0,540.0,Plot area 540(50.17 sq.m.)Built Up area: 540 sq.ft. (50.17 sq.m.)Carpet area: 500 sq.ft. (46.45 sq.m.),8,5,3+,4.0,East,Old Property,,540.0,500.0,0,0,0,0,0,1,8
+3418,house,cloudnine cottages,sohna road,5.5,55000.0,1000.0,Plot area 1000(92.9 sq.m.),3,3,0,1.0,,Moderately Old,,1000.0,,0,0,0,0,0,1,0
+3421,house,landmark house,sector 43,2.75,25463.0,1080.0,Plot area 120(100.34 sq.m.),3,3,1,2.0,South-East,Moderately Old,,1080.0,,0,0,0,1,0,1,21
+3425,house,independent,sector 26,8.1,35294.0,2295.0,Plot area 255(213.21 sq.m.),5,5,2,4.0,East,Old Property,,2295.0,,0,0,0,0,0,1,42
+3432,house,dlf city plots phase 2,sector 25,15.5,34307.0,4518.0,Plot area 502(419.74 sq.m.),5,6,3+,3.0,East,Moderately Old,,4518.0,,1,1,1,1,0,1,144
+3433,house,independent,sector 26,14.75,51864.0,2844.0,Plot area 316(264.22 sq.m.),16,20,3+,4.0,East,New Property,,2844.0,,1,1,1,1,0,0,153
+3434,house,dlf city plots,sector 26,20.0,44265.0,4518.0,Plot area 502(419.74 sq.m.),16,20,3+,4.0,North-East,New Property,,4518.0,,1,1,1,1,0,0,153
+3435,house,dlf city plots phase 4,sector 28,9.54,29444.0,3240.0,Plot area 360(301.01 sq.m.),6,5,3+,3.0,North,New Property,,3240.0,,1,1,1,1,0,1,153
+3436,house,dlf city plots phase 2,sector 25,10.55,39074.0,2700.0,Plot area 300(250.84 sq.m.),5,6,3+,3.0,East,Moderately Old,,2700.0,,1,1,1,1,0,1,131
+3437,house,dlf city plots,sector 26,17.3,38734.0,4466.0,Plot area 502(419.74 sq.m.),6,7,3+,3.0,North,New Property,,4518.0,,1,1,1,1,0,0,124
+3439,house,independent,sector 26,18.9,41833.0,4518.0,Plot area 502(419.74 sq.m.),6,8,2,3.0,North-East,Relatively New,,4518.0,,1,1,1,1,0,0,120
+3440,house,independent,sector 41,9.0,27778.0,3240.0,Plot area 360(301.01 sq.m.),8,5,3+,3.0,,Old Property,,3240.0,,0,1,1,1,0,0,26
+3441,house,emaar the palm springs,sector 54,24.0,600000.0,400.0,Plot area 400(37.16 sq.m.),5,5,2,1.0,North-East,Old Property,,400.0,,1,1,0,1,0,0,122
+3443,house,independent,sector 51,2.25,25000.0,900.0,Plot area 100(83.61 sq.m.),6,3,3+,3.0,North-West,Relatively New,,900.0,,0,0,0,0,0,1,54
+3445,house,uppal southend,sector 49,6.75,31915.0,2115.0,Plot area 235(196.49 sq.m.),12,12,3+,3.0,West,Moderately Old,,2115.0,,0,0,0,0,1,1,49
+3448,house,independent,sector 46,6.81,36911.0,1845.0,Plot area 205(171.41 sq.m.),12,14,3+,,East,New Property,,1845.0,,0,1,0,0,1,0,40
+3449,house,dlf city plots phase 2,sector 25,6.5,36111.0,1800.0,Plot area 200(167.23 sq.m.),5,5,3+,3.0,East,Old Property,,1800.0,,1,1,1,1,0,0,134
+3454,house,malibu towne,sector 47,8.81,27191.0,3240.0,Plot area 360(301.01 sq.m.),8,6,3+,3.0,East,Moderately Old,,3240.0,,1,1,0,0,1,0,27
+3455,house,independent,sector 55,1.45,241666.0,60.0,Plot area 60(5.57 sq.m.),4,4,3+,4.0,East,Relatively New,,60.0,,0,0,1,0,0,1,70
+3456,house,independent,sector 26,8.9,32963.0,2700.0,Plot area 300(250.84 sq.m.),4,4,3+,2.0,South-East,Old Property,,2700.0,,1,1,1,1,0,1,82
+3457,house,dlf city plots phase 2,sector 25,6.5,33592.0,1935.0,Plot area 215(179.77 sq.m.),9,9,3+,3.0,West,Old Property,,1935.0,,1,1,1,1,0,0,142
+3459,house,vipul tatvam villa,sector 48,22.0,26667.0,8250.0,Plot area 1000(836.13 sq.m.),5,6,3,3.0,,Moderately Old,,1000.0,,0,1,0,0,0,1,54
+3460,house,international city by sobha phase 2,sector 109,9.5,26389.0,3600.0,Plot area 400(334.45 sq.m.),5,5,3+,2.0,South,Relatively New,,3600.0,,1,1,1,1,0,1,133
+3461,house,vatika india next,sector 82,7.0,194444.0,360.0,Plot area 360(33.45 sq.m.)Built Up area: 3900 sq.ft. (362.32 sq.m.)Carpet area: 3743 sq.ft. (347.74 sq.m.),4,4,3+,3.0,North-East,Relatively New,,3900.0,3743.0,0,1,0,0,0,2,105
+3464,house,emaar mgf marbella,sector 66,12.0,38095.0,3150.0,Plot area 350(292.64 sq.m.),5,6,3+,4.0,North-East,New Property,,3150.0,,0,1,0,1,0,1,38
+3466,house,independent,sector 41,11.0,33951.0,3240.0,Plot area 360(301.01 sq.m.),4,4,2,3.0,East,New Property,,3240.0,,1,1,0,1,0,0,35
+3470,house,dlf city plots,sector 26,19.0,42054.0,4518.0,Plot area 502(419.74 sq.m.),6,6,3,2.0,East,Relatively New,,4518.0,,1,1,0,0,0,0,121
+3475,house,vipul tatvam villa,sector 48,18.5,26428.0,7000.0,Plot area 7000(650.32 sq.m.),4,4,1,1.0,,Moderately Old,,7000.0,,0,0,0,0,0,1,30
+3476,house,independent,sector 26,26.0,82540.0,3150.0,Plot area 402(336.12 sq.m.)Built Up area: 400 sq.yards (334.45 sq.m.)Carpet area: 350 sq.yards (292.64 sq.m.),16,16,3+,4.0,North-West,New Property,,400.0,350.0,1,1,1,1,0,2,72
+3478,house,eros rosewood city,sector 49,1.6,31481.0,508.0,Plot area 60(50.17 sq.m.),4,4,3,4.0,East,New Property,,60.0,,0,0,0,0,0,0,27
+3481,house,dlf city plots phase 2,sector 25,10.0,400000.0,250.0,Plot area 250(23.23 sq.m.),12,12,3+,4.0,North,Relatively New,,250.0,,1,1,0,0,0,0,114
+3483,house,emaar emerald hills,sector 65,12.5,34722.0,3600.0,Plot area 400(334.45 sq.m.),4,4,3+,2.0,East,Relatively New,,3600.0,,1,1,0,0,0,1,56
+3486,house,independent,sector 27,8.0,26298.0,3042.0,Plot area 338(282.61 sq.m.),9,9,3,4.0,North-East,Relatively New,,3042.0,,1,1,1,1,0,2,110
+3490,house,independent,sector 45,7.35,29697.0,2475.0,Plot area 275(229.94 sq.m.),6,4,3+,3.0,North-East,Old Property,,2475.0,,1,1,1,1,0,0,61
+3491,house,dlf city plots phase 2,sector 25,4.5,33333.0,1350.0,Plot area 150(125.42 sq.m.),5,3,2,3.0,,Old Property,,1350.0,,0,0,1,1,0,1,25
+3492,house,independent,sector 25,6.5,36111.0,1800.0,Plot area 200(167.23 sq.m.),4,3,3,3.0,,Moderately Old,,1800.0,,1,0,0,1,0,1,19
+3495,house,dlf city plots phase 2,sector 25,10.5,261194.0,402.0,Plot area 402(37.35 sq.m.),4,4,2,2.0,East,Old Property,,402.0,,0,1,0,1,0,0,91
+3496,house,eros rosewood villas,sector 49,2.75,178571.0,154.0,Plot area 154(14.31 sq.m.)Carpet area: 1650 sq.ft. (153.29 sq.m.),3,3,1,2.0,North-West,Old Property,,,1650.0,0,0,0,0,1,0,80
+3497,house,independent,sector 46,6.5,27461.0,2367.0,Plot area 263(219.9 sq.m.),12,12,3+,4.0,North-West,Relatively New,,2367.0,,1,0,0,1,0,0,32
+3498,house,dlf city plots phase 2,sector 25,7.5,31686.0,2367.0,Plot area 215(179.77 sq.m.),9,9,3+,4.0,West,Relatively New,,2300.5,,1,1,0,1,0,0,160
+3501,house,independent,sector 25,4.35,32222.0,1350.0,Plot area 150(125.42 sq.m.),5,4,3,3.0,North,Old Property,,1350.0,,0,1,0,0,0,1,49
+3503,house,dlf city plots,sector 26,18.0,39841.0,4518.0,Plot area 502(419.74 sq.m.),6,6,2,3.0,North,Old Property,,4518.0,,0,1,0,1,1,0,49
+3504,house,dlf city plots,sector 26,17.0,37627.0,4518.0,Plot area 502(419.74 sq.m.),5,6,3,2.0,North-West,Old Property,,4518.0,,0,1,1,1,0,0,87
+3506,house,dlf city plots,sector 26,13.5,29880.0,4518.0,Plot area 502(419.74 sq.m.),5,5,3,2.0,East,Old Property,,4518.0,,1,1,1,1,0,0,110
+3511,house,independent,sector 50,10.55,32562.0,3240.0,Plot area 360(301.01 sq.m.),5,5,3,2.0,,Moderately Old,,3240.0,,1,1,0,0,0,1,42
+3514,house,independent,sector 31,9.25,39530.0,2340.0,Plot area 265(221.57 sq.m.)Built Up area: 262 sq.yards (219.07 sq.m.)Carpet area: 260 sq.yards (217.39 sq.m.),12,12,3+,4.0,North-East,New Property,,262.0,260.0,0,1,0,1,1,2,49
+3516,house,independent,sector 24,5.25,38889.0,1350.0,Plot area 163(136.29 sq.m.)Built Up area: 160 sq.yards (133.78 sq.m.)Carpet area: 150 sq.yards (125.42 sq.m.),4,4,3+,2.0,East,Relatively New,,160.0,150.0,0,1,0,1,0,0,72
+3518,house,dlf city plots,sector 26,26.0,57206.0,4545.0,Plot area 505(422.24 sq.m.),6,7,3+,2.0,North-East,New Property,,4545.0,,1,1,0,1,1,0,138
+3519,house,unitech south city,sector 50,5.88,27222.0,2160.0,Plot area 240(200.67 sq.m.),9,9,3+,3.0,East,Relatively New,,2160.0,,1,1,0,1,1,2,128
+3522,house,unitech espace,sector 50,10.45,32253.0,3240.0,Plot area 360(301.01 sq.m.),5,7,3+,3.0,,Moderately Old,,3240.0,,1,1,0,1,1,0,153
+3523,house,emaar mgf marbella,sector 66,12.0,37037.0,3240.0,Plot area 360(301.01 sq.m.),4,4,3+,3.0,East,Relatively New,,3240.0,,1,1,1,1,0,0,160
+3530,house,luxury dlf city floors,sector 26,8.25,45833.0,1800.0,Plot area 200(167.23 sq.m.),12,12,3+,4.0,North,New Property,,1800.0,,0,1,0,0,0,0,105
+3531,house,dlf city plots,sector 26,13.5,29880.0,4518.0,Plot area 502(419.74 sq.m.),5,5,2,2.0,East,Moderately Old,,4518.0,,1,1,0,0,1,0,104
+3534,house,independent,sector 26,18.0,39841.0,4518.0,Plot area 502(419.74 sq.m.),5,4,3+,4.0,North,Moderately Old,,4518.0,,1,1,1,1,0,0,113
+3535,house,independent,sector 26,5.8,32222.0,1800.0,Plot area 200(167.23 sq.m.),4,3,2,2.0,East,Relatively New,,1800.0,,0,0,1,0,0,1,21
+3536,house,ss hibiscus,sector 50,12.5,40850.0,3060.0,Plot area 470(392.98 sq.m.)Built Up area: 410 sq.yards (342.81 sq.m.)Carpet area: 340 sq.yards (284.28 sq.m.),4,4,3+,2.0,West,Relatively New,,410.0,340.0,1,1,0,0,0,2,160
+3539,house,international city by sobha phase 2,sector 109,9.4,26111.0,3600.0,Plot area 400(334.45 sq.m.),5,6,3+,2.0,North-East,Relatively New,,3600.0,,1,1,1,1,0,0,147
+3540,house,unitech espace,sector 50,10.3,31790.0,3240.0,Plot area 360(301.01 sq.m.),5,6,3+,3.0,East,Moderately Old,,3240.0,,1,1,1,1,0,0,160
+3541,house,international city by sobha phase 1,sector 109,6.0,24691.0,2430.0,Plot area 270(225.75 sq.m.),4,4,3+,2.0,North-East,Relatively New,,2430.0,,1,1,1,1,0,1,160
+3542,house,unitech deerwood chase,sector 50,8.45,235376.0,359.0,Plot area 359(33.35 sq.m.),3,3,2,2.0,North-East,Old Property,,359.0,,1,1,0,0,0,0,102
+3543,house,independent,sector 41,7.25,29293.0,2475.0,Plot area 275(229.94 sq.m.),9,8,3,4.0,South-West,Old Property,,2475.0,,0,1,0,0,0,0,94
+3545,house,international city by sobha phase 1,sector 109,6.15,27333.0,2250.0,Plot area 270(225.75 sq.m.)Built Up area: 270 sq.yards (225.75 sq.m.)Carpet area: 250 sq.yards (209.03 sq.m.),5,5,3+,3.0,West,Relatively New,,270.0,250.0,0,1,1,1,0,0,130
+3547,house,dlf city plots,sector 26,12.5,38580.0,3240.0,Plot area 360(301.01 sq.m.),4,5,2,2.0,North-East,Moderately Old,,3240.0,,1,1,0,0,0,0,121
+3548,house,international city by sobha phase 2,sector 109,10.0,27778.0,3600.0,Plot area 400(334.45 sq.m.),4,5,3+,2.0,East,New Property,,3600.0,,1,1,0,1,1,0,49
+3549,house,independent,sector 26,16.0,35556.0,4500.0,Plot area 500(418.06 sq.m.),5,6,3,2.0,North-East,Old Property,,4500.0,,0,0,0,0,0,1,0
+3550,house,independent,sector 26,12.5,38580.0,3240.0,Plot area 360(301.01 sq.m.),5,5,3+,2.0,North,Old Property,,3240.0,,1,1,1,1,0,0,79
+3551,house,independent,sector 45,16.0,35000.0,4571.0,Plot area 500(418.06 sq.m.),6,7,3+,3.0,East,Relatively New,,4500.0,,1,1,1,1,0,0,105
+3552,house,independent,sector 45,10.0,30864.0,3240.0,Plot area 360(301.01 sq.m.),6,6,3+,4.0,North-East,Moderately Old,,3240.0,,1,1,1,1,0,0,70
+3554,house,independent,sector 23,2.8,161849.0,173.0,Plot area 173(16.07 sq.m.)Built Up area: 160 sq.ft. (14.86 sq.m.)Carpet area: 150 sq.ft. (13.94 sq.m.),5,5,3+,2.0,North-East,Old Property,,160.0,150.0,0,0,0,1,0,0,74
+3555,house,independent,sector 26,6.75,27778.0,2430.0,Plot area 270(225.75 sq.m.),3,3,3,2.0,North-East,Moderately Old,,2430.0,,0,0,0,0,0,1,27
+3562,house,independent,sector 28,12.0,42194.0,2844.0,Plot area 316(264.22 sq.m.),4,5,3+,4.0,East,Relatively New,,2844.0,,0,1,1,1,0,0,60
+3565,house,vipul tatvam villa,sector 48,7.25,201388.0,360.0,Plot area 360(33.45 sq.m.),4,4,3,2.0,,Relatively New,,360.0,,1,1,1,1,0,0,103
+3568,house,independent,sector 26,20.0,44444.0,4500.0,Plot area 500(418.06 sq.m.),5,7,3+,3.0,West,Relatively New,,4500.0,,0,1,0,1,0,2,97
+3573,house,independent,sector 2,6.0,24691.0,2430.0,Plot area 270(225.75 sq.m.),5,6,3+,3.0,East,Old Property,,2430.0,,1,0,0,1,1,0,43
+3575,house,emaar mgf marbella,sector 66,18.0,40000.0,4500.0,Plot area 500(418.06 sq.m.),5,6,3+,3.0,North-East,Relatively New,,4500.0,,1,1,1,1,0,2,153
+3576,house,unitech espace,sector 50,11.29,34846.0,3240.0,Plot area 360(301.01 sq.m.),5,5,3+,2.0,,Moderately Old,,3240.0,,1,0,0,1,0,1,21
+3577,house,independent,sector 43,8.49,31444.0,2700.0,Plot area 300(250.84 sq.m.),3,3,2,4.0,North,Relatively New,,2700.0,,0,1,0,1,0,0,21
+3578,house,vipul tatvam villa,sector 48,8.5,26235.0,3240.0,Plot area 360(301.01 sq.m.),4,4,1,,,Relatively New,,3240.0,,0,0,0,0,0,1,21
+3581,house,independent,sector 2,19.5,27083.0,7200.0,Plot area 800(668.9 sq.m.),8,9,3+,2.0,North,New Property,,7200.0,,1,1,0,1,0,1,122
+3582,house,independent,sector 26,10.5,43210.0,2430.0,Plot area 302(252.51 sq.m.)Built Up area: 300 sq.yards (250.84 sq.m.)Carpet area: 270 sq.yards (225.75 sq.m.),12,12,3+,4.0,North-East,Relatively New,,300.0,270.0,0,1,0,1,0,0,72
+3583,house,independent,sector 25,4.31,31926.0,1350.0,Plot area 150(125.42 sq.m.),5,4,3,3.0,North,Old Property,,1350.0,,0,0,0,0,0,1,40
+3584,house,independent,sector 57,6.95,38611.0,1800.0,Plot area 192(160.54 sq.m.),12,12,3+,4.0,East,New Property,,1728.0,,0,1,1,0,0,0,73
+3585,house,ansal sushant lok,sector 43,10.5,27911.0,3762.0,Plot area 418(349.5 sq.m.),4,4,2,,North-East,Old Property,,3762.0,,0,1,0,0,0,1,59
+3586,house,independent,sector 25,10.5,29022.0,3618.0,Plot area 402(336.12 sq.m.),5,5,3,3.0,East,Moderately Old,,3618.0,,1,1,0,1,0,1,42
+3589,house,independent,sector 50,11.58,35741.0,3240.0,Plot area 360(301.01 sq.m.),5,5,3,2.0,,Moderately Old,,3240.0,,0,1,0,0,0,1,20
+3593,house,unitech aspen greens,sector 50,6.8,31481.0,2160.0,Plot area 240(200.67 sq.m.)Built Up area: 220 sq.yards (183.95 sq.m.)Carpet area: 200 sq.yards (167.23 sq.m.),4,5,3,3.0,West,Old Property,,220.0,200.0,1,1,0,0,0,0,111
+3595,house,independent,sector 43,7.5,38760.0,1935.0,Plot area 215(179.77 sq.m.),12,12,3+,4.0,East,New Property,,1935.0,,1,1,1,1,0,0,72
+3598,house,sushant lok 1 builder floors,sector 43,10.85,28841.0,3762.0,Plot area 418(349.5 sq.m.),8,8,3,3.0,West,Moderately Old,,3762.0,,1,1,1,1,0,2,160
+3599,house,independent,sector 47,5.15,26615.0,1935.0,Plot area 215(179.77 sq.m.),9,9,3+,3.0,East,Relatively New,,1935.0,,0,0,1,0,0,0,75
+3603,house,emaar the palm springs,sector 54,14.0,62222.0,2250.0,Plot area 250(209.03 sq.m.),4,5,3+,2.0,North,Old Property,,2250.0,,1,1,0,0,0,0,160
+3606,house,independent,sector 57,7.25,26852.0,2700.0,Plot area 300(250.84 sq.m.),9,9,3+,2.0,North-East,New Property,,2700.0,,0,1,0,1,1,0,49
+3607,house,independent,sector 43,15.5,28233.0,5490.0,Plot area 610(510.04 sq.m.),5,6,3,3.0,East,Moderately Old,,5490.0,,1,1,1,1,0,1,76
+3609,house,independent,sector 28,11.25,34722.0,3240.0,Plot area 360(301.01 sq.m.),9,9,3+,2.0,North,Moderately Old,,3240.0,,0,1,1,1,0,0,126
+3612,house,independent,sector 43,8.5,31481.0,2700.0,Plot area 300(250.84 sq.m.),5,5,3,3.0,West,Moderately Old,,2700.0,,0,1,0,0,0,0,113
+3613,house,independent,sector 45,8.5,26235.0,3240.0,Plot area 360(301.01 sq.m.),5,4,2,1.0,North-East,Moderately Old,,3240.0,,0,1,0,1,0,0,49
+3614,house,unitech nirvana birch court,sector 50,11.95,36883.0,3240.0,Plot area 360(301.01 sq.m.),3,3,2,1.0,West,Moderately Old,,3240.0,,1,1,0,0,0,1,101
+3615,house,unitech aspen greens,sector 50,12.0,37037.0,3240.0,Plot area 360(301.01 sq.m.),3,4,2,1.0,East,Moderately Old,,3240.0,,1,1,0,0,0,0,101
+3616,house,bptp astaire gardens,sector 70a,6.5,27871.0,2332.0,Plot area 299(250 sq.m.),4,4,3+,2.0,North-East,New Property,,299.0,,1,1,0,1,0,0,160
+3617,house,dlf alameda,sector 73,17.0,35109.0,4842.0,Plot area 4842(449.84 sq.m.)Built Up area: 9000 sq.ft. (836.13 sq.m.),5,8,3,3.0,North-West,Relatively New,,9000.0,,1,1,1,1,0,2,87
+3619,house,independent house sector 45,sector 40,9.0,38022.0,2367.0,Plot area 2367(219.9 sq.m.)Built Up area: 9000 sq.ft. (836.13 sq.m.)Carpet area: 6000 sq.ft. (557.42 sq.m.),12,12,3,4.0,North-West,New Property,,9000.0,6000.0,0,1,0,0,0,0,71
+3620,house,independent,sector 26,15.0,33333.0,4500.0,Built Up area: 4500 (418.06 sq.m.),4,4,3,3.0,,Moderately Old,,4500.0,,0,1,1,0,0,0,36
+3621,house,vipul tatvam villa,sector 48,8.2,25309.0,3240.0,Plot area 360(301.01 sq.m.),3,3,2,2.0,North,Moderately Old,,3240.0,,1,1,0,1,0,2,160
+3626,house,independent,sector 26,8.49,47167.0,1800.0,Plot area 200(167.23 sq.m.),12,12,3+,4.0,North,Relatively New,,1800.0,,0,1,0,1,0,0,42
+3630,house,independent,sector 55,9.19,34037.0,2700.0,Plot area 300(250.84 sq.m.),16,18,2,4.0,West,New Property,,2700.0,,0,1,0,1,0,0,49
+3632,house,unitech palms south city 1,sector 41,9.35,28858.0,3240.0,Plot area 3240(301.01 sq.m.)Built Up area: 7500 sq.ft. (696.77 sq.m.)Carpet area: 6000 sq.ft. (557.42 sq.m.),10,10,3+,4.0,North-East,Moderately Old,,7500.0,6000.0,1,1,0,0,0,0,70
+3633,house,unitech palms south city 1,sector 41,9.25,28549.0,3240.0,Plot area 3240(301.01 sq.m.)Built Up area: 5000 sq.ft. (464.52 sq.m.)Carpet area: 4500 sq.ft. (418.06 sq.m.),9,9,3+,4.0,North,Moderately Old,,5000.0,4500.0,1,1,1,1,0,0,65
+3637,house,independent,sector 28,8.4,34568.0,2430.0,Plot area 270(225.75 sq.m.),4,4,3+,2.0,North-East,Relatively New,,2430.0,,0,1,1,1,0,0,139
+3638,house,emaar mgf marbella,sector 66,11.0,33951.0,3240.0,Plot area 360(301.01 sq.m.),5,6,3+,2.0,North-East,New Property,,3240.0,,1,1,1,1,0,0,153
+3640,house,independent,sector 26,23.0,25556.0,9000.0,Plot area 1000(836.13 sq.m.),4,4,3+,2.0,South-West,Relatively New,,9000.0,,1,1,1,1,0,0,145
+3641,house,independent,sector 25,6.5,36111.0,1800.0,Plot area 200(167.23 sq.m.),4,4,3+,2.0,North-East,Moderately Old,,1800.0,,1,1,1,1,0,1,61
+3647,house,independent,sector 43,7.85,29074.0,2700.0,Plot area 300(250.84 sq.m.),9,9,3+,3.0,West,Relatively New,,2700.0,,1,1,0,1,1,2,49
+3648,house,independent,sector 26,13.5,29880.0,4518.0,Plot area 502(419.74 sq.m.),5,5,3+,2.0,North-East,Relatively New,,4518.0,,1,1,0,1,1,2,49
+3649,house,independent,sector 26,19.0,42222.0,4500.0,Plot area 500(418.06 sq.m.),6,8,3+,3.0,East,Moderately Old,,4500.0,,1,1,1,1,0,0,103
+3650,house,independent,sector 54,5.5,38194.0,1440.0,Plot area 160(133.78 sq.m.),18,18,3+,4.0,South-West,Relatively New,,1440.0,,0,1,0,0,0,2,70
+3652,house,vipul tatvam villa,sector 48,8.25,38194.0,2160.0,Plot area 350(292.64 sq.m.)Built Up area: 300 sq.yards (250.84 sq.m.)Carpet area: 240 sq.yards (200.67 sq.m.),4,4,3+,3.0,North-East,Relatively New,,300.0,240.0,0,1,1,0,0,0,160
+3653,house,dlf city plots,sector 26,16.0,37778.0,4235.0,Plot area 500(418.06 sq.m.),4,4,3,1.0,,Relatively New,,500.0,,1,0,1,1,0,1,7
+3654,house,suncity township,sector 54,25.0,31111.0,8036.0,Plot area 1000(836.13 sq.m.),4,4,3+,2.0,North,Moderately Old,,1000.0,,1,1,1,1,0,1,0
+3660,house,independent,sector 43,9.85,29638.0,3323.0,Plot area 418(349.5 sq.m.),5,5,2,3.0,West,Old Property,,418.0,,1,1,0,1,0,1,21
+3661,house,independent,sector 39,15.0,33333.0,4500.0,Plot area 500(418.06 sq.m.),5,5,3+,4.0,,Moderately Old,,4500.0,,0,1,0,0,0,0,27
+3664,house,sushant lok 1 builder floors,sector 43,13.0,48148.0,2700.0,Plot area 300(250.84 sq.m.),3,3,3+,4.0,North,New Property,,2700.0,,0,0,0,1,0,0,7
+3667,house,emaar mgf marbella,sector 66,18.0,55556.0,3240.0,Plot area 360(301.01 sq.m.),4,4,3+,3.0,East,Moderately Old,,3240.0,,1,1,0,1,0,2,75
+3668,house,independent,sector 40,12.0,38986.0,3078.0,Plot area 342(285.96 sq.m.),16,16,3+,4.0,,New Property,,3078.0,,1,1,1,1,0,0,0
+3669,house,independent,sector 46,2.25,24510.0,918.0,Plot area 102(85.28 sq.m.)Built Up area: 90 sq.yards (75.25 sq.m.)Carpet area: 85 sq.yards (71.07 sq.m.),4,3,3,3.0,North-East,Relatively New,,90.0,85.0,1,0,0,0,0,0,35
+3672,house,unitech espace,sector 50,9.8,30247.0,3240.0,Plot area 360(301.01 sq.m.)Built Up area: 300 sq.yards (250.84 sq.m.)Carpet area: 280 sq.yards (234.12 sq.m.),4,4,3,2.0,North-West,Moderately Old,,300.0,280.0,0,1,0,0,0,1,22
+3674,house,emaar mgf marbella,sector 66,19.0,31666.0,6000.0,Plot area 9000(836.13 sq.m.)Carpet area: 6000 sq.ft. (557.42 sq.m.),5,6,3+,3.0,North-East,Relatively New,,,6000.0,0,1,1,1,0,0,110
+3676,house,unitech nirvana birch court,sector 50,7.1,283333.0,251.0,Plot area 240(22.3 sq.m.),3,3,3,1.0,East,Moderately Old,,240.0,,0,1,0,0,0,1,49
+3677,house,independent,sector 27,4.25,31481.0,1350.0,Plot area 163(136.29 sq.m.)Built Up area: 161 sq.yards (134.62 sq.m.)Carpet area: 150 sq.yards (125.42 sq.m.),5,5,3+,3.0,East,Relatively New,,161.0,150.0,0,1,0,1,0,0,49
+3678,house,independent,sector 43,9.5,42222.0,2250.0,Plot area 302(252.51 sq.m.)Built Up area: 300 sq.yards (250.84 sq.m.)Carpet area: 250 sq.yards (209.03 sq.m.),5,5,3+,2.0,North-East,Relatively New,,300.0,250.0,0,1,0,1,0,0,88
+3679,house,independent,sector 25,16.0,59259.0,2700.0,Plot area 350(292.64 sq.m.)Built Up area: 325 sq.yards (271.74 sq.m.)Carpet area: 300 sq.yards (250.84 sq.m.),16,16,3+,4.0,West,New Property,,325.0,300.0,1,1,1,1,0,2,72
+3680,house,independent,sector 27,8.25,45833.0,1800.0,Plot area 210(175.59 sq.m.)Built Up area: 205 sq.yards (171.41 sq.m.)Carpet area: 200 sq.yards (167.23 sq.m.),12,12,3+,4.0,East,New Property,,205.0,200.0,0,1,0,1,0,0,40
+3682,house,independent,sector 31,4.25,26235.0,1620.0,Plot area 204(170.57 sq.m.)Built Up area: 200 sq.yards (167.23 sq.m.)Carpet area: 180 sq.yards (150.5 sq.m.),5,5,3+,3.0,North-East,Moderately Old,,200.0,180.0,0,0,1,1,0,0,56
+3684,house,independent,sector 24,4.5,33333.0,1350.0,Plot area 163(136.29 sq.m.)Built Up area: 160 sq.yards (133.78 sq.m.)Carpet area: 150 sq.yards (125.42 sq.m.),10,8,3+,4.0,East,Relatively New,,160.0,150.0,0,1,1,0,0,0,56
+3688,house,unitech uniworld resorts,sector 33,9.5,173992.0,546.0,Plot area 546(50.73 sq.m.),6,6,3+,3.0,North-East,Moderately Old,,546.0,,0,0,0,0,0,0,40
+3691,house,malibu towne,sector 47,1.15,41818.0,275.0,Plot area 275(25.55 sq.m.),3,3,3,2.0,North-East,Old Property,,275.0,,0,0,0,0,0,0,33
+3695,house,independent,sector 26,9.0,33333.0,2700.0,Plot area 300(250.84 sq.m.),5,5,2,3.0,South-West,Old Property,,2700.0,,1,1,1,1,0,2,110
+3701,house,independent,sector 43,5.3,27390.0,1935.0,Plot area 215(179.77 sq.m.),9,9,3+,3.0,East,Moderately Old,,1935.0,,0,1,0,0,0,0,71
+3702,house,sushant lok 1 builder floors,sector 43,6.25,30728.0,2034.0,Plot area 226(188.96 sq.m.),7,7,3+,3.0,North,Moderately Old,,2034.0,,1,1,1,0,0,1,46
+3703,house,dlf city plots phase 2,sector 25,6.3,35000.0,1800.0,Plot area 200(167.23 sq.m.),4,4,3+,2.0,East,Old Property,,1800.0,,0,1,1,0,0,1,89
+3704,house,dlf city phase 1,sector 26,5.5,30556.0,1800.0,Plot area 200(167.23 sq.m.),4,4,3+,2.0,East,Moderately Old,,1800.0,,0,0,1,1,0,1,49
+3705,house,independent,sector 28,11.75,41315.0,2844.0,Plot area 316(264.22 sq.m.),4,5,3+,4.0,East,Relatively New,,2844.0,,1,1,1,0,0,0,54
+3707,house,unitech escape,sector 50,10.8,60000.0,1800.0,Plot area 290(242.48 sq.m.)Built Up area: 250 sq.yards (209.03 sq.m.)Carpet area: 200 sq.yards (167.23 sq.m.),4,4,3,2.0,North,Relatively New,,250.0,200.0,1,1,1,1,0,0,103
+3708,house,vipul tatvam villa,sector 48,6.4,24691.0,2592.0,Plot area 288(240.8 sq.m.)Built Up area: 240 sq.yards (200.67 sq.m.)Carpet area: 200 sq.yards (167.23 sq.m.),3,4,3,2.0,North,Relatively New,,240.0,200.0,1,1,1,0,0,0,148
+3712,house,independent,sector 54,3.75,234375.0,160.0,Plot area 160(14.86 sq.m.),4,4,3,3.0,East,Moderately Old,,160.0,,0,1,0,0,0,0,13
+3713,house,independent,sector 41,4.25,26235.0,1620.0,Plot area 180(150.5 sq.m.),10,9,3+,4.0,North,Moderately Old,,1620.0,,1,1,0,0,0,0,36
+3715,house,arjun marg/ sector- 26 phase- 1/ golf course road,sector 26,31.5,35000.0,9000.0,Plot area 1000(836.13 sq.m.),7,9,3+,3.0,North-East,Moderately Old,,9000.0,,1,1,1,1,0,2,74
+3718,house,independent,sector 26,17.0,37627.0,4518.0,Plot area 502(419.74 sq.m.),5,5,3+,2.0,North-East,Relatively New,,4518.0,,1,1,1,1,0,0,124
+3720,house,sushant lok 1 builder floors,sector 43,1.65,30556.0,540.0,Plot area 60(50.17 sq.m.)Built Up area: 540 sq.yards (451.51 sq.m.)Carpet area: 500 sq.yards (418.06 sq.m.),4,4,3+,4.0,West,Moderately Old,,540.0,500.0,0,0,0,0,1,2,49
+3721,house,the laburnum,sector 43,11.0,27160.0,4050.0,Plot area 450(376.26 sq.m.)Built Up area: 360 sq.yards (301.01 sq.m.)Carpet area: 350 sq.yards (292.64 sq.m.),5,6,3+,3.0,East,New Property,,360.0,350.0,0,1,0,1,0,0,160
+3722,house,independent,sector 25,11.0,35530.0,3096.0,Plot area 344(287.63 sq.m.),5,5,3+,2.0,,Relatively New,,3096.0,,1,1,1,1,0,1,29
+3725,house,independent,sector 26,4.5,33333.0,1350.0,Plot area 150(125.42 sq.m.),3,3,2,2.0,West,Old Property,,1350.0,,0,0,0,1,0,0,58
+3726,house,independent,sector 43,5.25,27132.0,1935.0,Plot area 215(179.77 sq.m.),4,4,2,2.0,,Old Property,,1935.0,,1,1,0,0,0,0,80
+3728,house,unitech espace,sector 50,11.0,40741.0,2700.0,Plot area 360(301.01 sq.m.)Built Up area: 361 sq.yards (301.84 sq.m.)Carpet area: 300 sq.yards (250.84 sq.m.),4,4,3+,2.0,North,Moderately Old,,361.0,300.0,0,1,0,0,0,0,88
+3729,house,unitech espace,sector 50,7.5,34722.0,2160.0,Plot area 240(200.67 sq.m.)Built Up area: 241 sq.yards (201.51 sq.m.)Carpet area: 240 sq.yards (200.67 sq.m.),3,3,2,2.0,West,Moderately Old,,241.0,240.0,0,1,0,0,0,0,66
+3730,house,independent,sector 25,9.9,29333.0,3375.0,Plot area 375(313.55 sq.m.),5,5,2,2.0,South-East,Moderately Old,,3375.0,,0,0,0,1,0,0,106
+3731,house,uppal southend,sector 49,6.75,32328.0,2088.0,Built Up area: 232 (193.98 sq.m.),4,4,3,3.0,West,Relatively New,,232.0,,0,1,0,0,0,0,26
+3732,house,uppal southend,sector 49,6.75,290948.0,232.0,Plot area 232(21.55 sq.m.),12,12,3+,,West,Moderately Old,,232.0,,1,1,0,1,1,0,49
+3733,house,uppal southend,sector 49,3.75,25562.0,1467.0,Built Up area: 163 (136.29 sq.m.),6,6,3+,3.0,East,Moderately Old,,163.0,,1,0,0,0,0,0,26
+3742,house,independent,sector 25,10.0,37037.0,2700.0,Plot area 2700(250.84 sq.m.)Built Up area: 9500 sq.ft. (882.58 sq.m.)Carpet area: 9000 sq.ft. (836.13 sq.m.),5,5,3+,3.0,East,Moderately Old,,9500.0,9000.0,0,1,0,1,0,2,29
+3744,house,uppal southend,sector 49,6.75,32328.0,2088.0,Plot area 232(193.98 sq.m.),12,12,3+,3.0,North,Moderately Old,,2088.0,,1,1,0,1,1,0,49
+3749,house,independent,sector 28,10.5,32407.0,3240.0,Plot area 360(301.01 sq.m.),5,6,3+,3.0,,New Property,,3240.0,,1,1,0,1,0,0,153
+3750,house,independent,sector 57,8.0,266666.0,300.0,Plot area 300(27.87 sq.m.),5,4,3,2.0,North,Relatively New,,300.0,,1,1,0,1,0,1,21
+3751,house,international city by sobha phase 2,sector 109,6.44,26502.0,2430.0,Plot area 270(225.75 sq.m.),4,5,3+,3.0,North-East,New Property,,2430.0,,1,1,1,1,0,1,138
+3753,house,unitech aspen greens,sector 50,7.0,32407.0,2160.0,Plot area 240(200.67 sq.m.),4,4,2,2.0,East,Old Property,,2160.0,,0,1,0,0,0,1,29
+3754,house,independent,sector 28,11.0,33951.0,3240.0,Plot area 360(301.01 sq.m.),13,13,3+,3.0,East,Relatively New,,3240.0,,1,1,0,1,0,2,122
+3756,house,unitech nirvana birch court,sector 50,6.8,31481.0,2160.0,Plot area 240(200.67 sq.m.),4,4,3+,2.0,South-East,Old Property,,2160.0,,1,1,0,1,0,1,105
+3763,house,independent,sector 26,4.45,35185.0,1265.0,Plot area 150(125.42 sq.m.),4,4,3,3.0,West,Old Property,,150.0,,0,0,0,0,0,1,25
+3765,house,sector 57 huda,sector 57,3.8,26063.0,1458.0,Plot area 162(135.45 sq.m.)Built Up area: 162 sq.yards (135.45 sq.m.)Carpet area: 160 sq.yards (133.78 sq.m.),8,8,3+,4.0,East,Relatively New,,162.0,160.0,0,0,1,1,0,0,94
+3766,house,independent,sector 7,1.0,79365.0,126.0,Plot area 126(11.71 sq.m.),2,2,0,0.0,,Old Property,,126.0,,1,0,0,0,0,1,7
+3768,house,unitech uniworld resorts,sector 33,11.5,24573.0,4680.0,Plot area 520(434.79 sq.m.),5,6,3+,4.0,East,Relatively New,,4680.0,,0,1,0,0,0,1,84
+3770,house,nirvana cedar crest,sector 50,7.1,32870.0,2160.0,Plot area 240(200.67 sq.m.)Built Up area: 239 sq.yards (199.83 sq.m.)Carpet area: 238 sq.yards (199 sq.m.),5,4,3,2.0,East,Moderately Old,,239.0,238.0,1,0,1,1,0,0,110
+3771,house,nul,sector 25,9.5,33404.0,2844.0,Plot area 316(264.22 sq.m.),9,9,3+,3.0,North-West,Old Property,,2844.0,,0,0,0,0,1,1,81
+3773,house,independent,sector 26,4.0,29630.0,1350.0,Plot area 150(125.42 sq.m.),4,4,3,2.0,North,Old Property,,1350.0,,0,0,1,0,0,1,41
+3775,house,nul,sector 28,12.5,51440.0,2430.0,Plot area 270(225.75 sq.m.),16,17,3+,4.0,South,Relatively New,,2430.0,,1,1,0,1,1,2,137
+3776,house,unitech uniworld resorts,sector 33,11.0,26667.0,4125.0,Plot area 500(418.06 sq.m.),5,6,3,3.0,,New Property,,500.0,,1,1,0,0,0,1,58
+3777,house,sector 38 rwa,sector 38,4.3,28782.0,1494.0,Plot area 166(138.8 sq.m.)Built Up area: 165 sq.yards (137.96 sq.m.)Carpet area: 164 sq.yards (137.12 sq.m.),9,9,3+,3.0,East,Relatively New,,165.0,164.0,0,0,0,1,1,0,41
+3778,house,unitech espace,sector 50,7.45,34491.0,2160.0,Plot area 240(200.67 sq.m.)Built Up area: 4500 sq.yards (3762.57 sq.m.)Carpet area: 4000 sq.yards (3344.51 sq.m.),4,4,3,3.0,,Old Property,,4500.0,4000.0,0,1,0,0,0,0,59
+3779,house,unitech espace,sector 50,7.42,34351.0,2160.0,Plot area 2160(200.67 sq.m.)Built Up area: 3200 sq.ft. (297.29 sq.m.),4,4,3,2.0,West,Old Property,,3200.0,,0,0,0,0,0,0,88
+3780,house,dlf city phase 1,sector 26,9.25,47803.0,1935.0,Plot area 1935(179.77 sq.m.)Built Up area: 7000 sq.ft. (650.32 sq.m.),12,12,3+,4.0,North-East,New Property,,7000.0,,0,1,0,1,0,0,43
+3782,house,independent,sector 47,6.09,33665.0,1809.0,Plot area 201(168.06 sq.m.)Built Up area: 180 sq.yards (150.5 sq.m.)Carpet area: 150 sq.yards (125.42 sq.m.),12,11,3+,4.0,West,Moderately Old,,180.0,150.0,0,0,0,1,0,2,44
+3783,house,independent,sector 55,5.0,44444.0,1125.0,Plot area 125(104.52 sq.m.)Built Up area: 115 sq.yards (96.15 sq.m.)Carpet area: 100 sq.yards (83.61 sq.m.),9,9,3+,5.0,East,New Property,,115.0,100.0,0,0,0,0,1,0,44
+3788,house,independent,sector 46,2.4,26667.0,900.0,Plot area 100(83.61 sq.m.),4,4,3,3.0,East,Moderately Old,,900.0,,0,0,1,0,0,0,44
+3795,house,independent,sector 46,3.55,24500.0,1449.0,Plot area 161(134.62 sq.m.),5,4,3+,3.0,North-West,Moderately Old,,1449.0,,0,1,0,0,0,0,73
+3796,house,independent,sector 46,3.6,24845.0,1449.0,Plot area 161(134.62 sq.m.),5,5,3+,3.0,South-East,Moderately Old,,1449.0,,0,1,0,0,0,0,75
+3798,house,independent,sector 57,4.75,28787.0,1650.0,Plot area 1600(148.64 sq.m.)Built Up area: 1700 sq.ft. (157.94 sq.m.)Carpet area: 1650 sq.ft. (153.29 sq.m.),3,3,3,2.0,North-West,Moderately Old,,1700.0,1650.0,0,0,1,0,0,0,96
+3799,house,dlf city phase 1,sector 26,5.5,30556.0,1800.0,Plot area 200(167.23 sq.m.),4,4,3,2.0,North-East,Moderately Old,,1800.0,,1,1,0,1,0,1,69
+3800,house,dlf city plots phase 2,sector 25,4.25,31481.0,1350.0,Plot area 150(125.42 sq.m.),3,2,3,2.0,North,Old Property,,1350.0,,1,0,0,0,0,1,35
+3801,house,dlf city phase 1,sector 26,4.5,33333.0,1350.0,Plot area 150(125.42 sq.m.),3,3,2,2.0,East,Moderately Old,,1350.0,,1,1,0,0,0,1,70
+3802,house,dlf city phase 1,sector 26,3.25,33129.0,981.0,Plot area 109(91.14 sq.m.),3,3,3,2.0,West,Old Property,,981.0,,1,0,0,0,0,1,79
