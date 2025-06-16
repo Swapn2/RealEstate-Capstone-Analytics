@@ -1,186 +1,186 @@
 ,property_type,society,sector,price,price_per_sqft,area,areaWithType,bedRoom,bathroom,balcony,floorNum,facing,agePossession,super_built_up_area,built_up_area,carpet_area,study room,servant room,store room,pooja room,others,furnishing_type,luxury_score,area_bedroom_ratio
-116,flat,czar mahira homes 63a,sector 63,0.42,7407.0,567.0,Carpet area: 567 (52.68 sq.m.),3,2,2,1.0,,Undefined,,,567.0,0,0,0,0,0,1,0,189.0
-129,flat,mvn athens,sohna road,0.26,5394.0,482.0,Carpet area: 481.74 (44.76 sq.m.),2,2,1,2.0,,Relatively New,,,481.792164,0,0,0,0,0,1,37,241.0
-198,flat,supertech basera,sector 79,0.36,7643.0,471.0,Built Up area: 546 (50.73 sq.m.)Carpet area: 471 sq.ft. (43.76 sq.m.),2,2,1,4.0,,New Property,,546.0,471.0,0,0,0,0,0,1,60,235.5
-335,flat,mvn athens,sohna road,0.27,5895.0,458.0,Carpet area: 457.81 (42.53 sq.m.),2,2,1,4.0,South-East,Relatively New,,,457.788667,0,0,0,0,1,0,35,229.0
-560,flat,signature global solera,sector 107,0.27,5521.0,489.0,Carpet area: 489 (45.43 sq.m.),2,2,2,0.0,North-East,Relatively New,,,489.0,0,0,0,0,0,1,45,244.5
-561,flat,signature global solera,sector 107,0.28,5680.0,493.0,Carpet area: 489 (45.43 sq.m.),2,2,2,6.0,West,Relatively New,,,489.0,0,0,0,0,0,1,45,246.5
-704,flat,signature global solera,sector 107,0.5,7752.0,645.0,Carpet area: 645 (59.92 sq.m.),3,2,2,6.0,South-East,Relatively New,,,645.0,0,0,0,0,1,1,15,215.0
-705,flat,signature global solera,sector 107,0.52,8062.0,645.0,Carpet area: 645 (59.92 sq.m.),3,2,2,5.0,East,Relatively New,,,645.0,0,0,0,0,1,1,15,215.0
-706,flat,signature global solera,sector 107,0.28,5726.0,489.0,Carpet area: 489 (45.43 sq.m.),2,2,2,6.0,West,Relatively New,,,489.0,0,0,0,0,0,1,45,244.5
-707,flat,signature global solera,sector 107,0.29,5930.0,489.0,Carpet area: 489 (45.43 sq.m.),2,2,2,3.0,East,Relatively New,,,489.0,0,0,0,0,0,1,45,244.5
-773,flat,prime habitat,sector 99,0.27,6054.0,446.0,Carpet area: 448 (41.62 sq.m.),2,2,1,10.0,South,Relatively New,,,448.0,0,0,0,0,0,1,67,223.0
-900,flat,pyramid urban homes 2,sector 86,0.41,8283.0,495.0,Carpet area: 501 (46.54 sq.m.),2,2,1,7.0,West,New Property,,,501.0,1,1,0,1,1,1,49,247.5
-1130,flat,signature global solera,sector 107,0.5,7752.0,645.0,Carpet area: 645 (59.92 sq.m.),3,2,2,6.0,North-East,Relatively New,,,645.0,0,0,0,0,1,1,49,215.0
-1138,flat,signature global solera,sector 107,0.28,5833.0,480.0,Carpet area: 489 (45.43 sq.m.),2,2,2,0.0,North-East,Relatively New,,,489.0,0,0,0,0,0,1,45,240.0
-1139,flat,signature global solera,sector 107,0.28,5680.0,493.0,Carpet area: 489 (45.43 sq.m.),2,2,2,11.0,North,Relatively New,,,489.0,0,0,0,0,0,1,29,246.5
-1140,flat,signature global solera,sector 107,0.28,5622.0,498.0,Carpet area: 489 (45.43 sq.m.),2,2,2,14.0,North-West,Relatively New,,,489.0,0,0,0,0,0,1,38,249.0
-1141,flat,signature global solera,sector 107,0.28,5726.0,489.0,Carpet area: 489 (45.43 sq.m.),2,2,2,10.0,South,Relatively New,,,489.0,0,0,0,0,0,1,38,244.5
-1144,flat,signature global solera,sector 107,0.51,7907.0,645.0,Carpet area: 645 (59.92 sq.m.),3,2,2,9.0,South,Relatively New,,,645.0,0,0,0,0,1,1,15,215.0
-1146,flat,signature global solera,sector 107,0.28,5833.0,480.0,Carpet area: 489 (45.43 sq.m.),2,2,2,11.0,South,Relatively New,,,489.0,0,0,0,0,0,1,45,240.0
-1155,flat,tulip lemon,sector 69,0.62,12863.0,482.0,Carpet area: 482 (44.78 sq.m.),2,2,1,4.0,North-East,Relatively New,,,482.0,0,0,0,0,0,0,108,241.0
-1204,flat,conscient habitat,sector 99,0.27,5602.0,482.0,Carpet area: 484 (44.97 sq.m.),2,2,1,8.0,South-West,Relatively New,,,484.0,0,0,0,0,1,1,49,241.0
-1242,flat,pivotal devaan,sector 84,0.36,7595.0,474.0,Super Built up area 583(54.16 sq.m.)Carpet area: 481 sq.ft. (44.69 sq.m.),2,2,1,9.0,West,Relatively New,583.0,,481.0,0,0,1,0,0,2,80,237.0
-1243,flat,pivotal devaan,sector 84,0.34,7039.0,483.0,Carpet area: 483 (44.87 sq.m.),2,2,1,1.0,East,Relatively New,,,483.0,0,0,1,0,0,0,84,241.5
-1245,flat,pivotal devaan,sector 84,0.35,7277.0,481.0,Super Built up area 583(54.16 sq.m.)Carpet area: 481 sq.ft. (44.69 sq.m.),2,2,1,10.0,West,Relatively New,583.0,,481.0,0,0,1,0,0,1,103,240.5
-1312,flat,rof ananda,sector 95,0.37,5745.0,644.0,Carpet area: 644.12 (59.84 sq.m.),3,2,1,6.0,South-East,Relatively New,,,644.111776,0,0,0,1,0,0,72,214.66666666666666
-1313,flat,rof ananda,sector 95,0.38,5901.0,644.0,Carpet area: 644.12 (59.84 sq.m.),3,2,1,2.0,South-East,Relatively New,,,644.111776,0,0,0,1,0,0,66,214.66666666666666
-1401,flat,pyramid urban homes 2,sector 86,0.42,8485.0,495.0,Carpet area: 501 (46.54 sq.m.),2,2,1,2.0,North-East,New Property,,,501.0,1,1,0,1,1,1,84,247.5
-1634,flat,gls avenue 51,sector 92,0.39,6075.0,642.0,Carpet area: 641.74 (59.62 sq.m.),3,3,3+,6.0,North,Relatively New,,,641.743718,0,0,0,0,0,1,104,214.0
-1823,flat,signature global solera,sector 107,0.3,6135.0,489.0,Super Built up area 602(55.93 sq.m.)Carpet area: 489 sq.ft. (45.43 sq.m.),2,2,1,5.0,East,Relatively New,602.0,,489.0,0,0,0,0,0,1,57,244.5
-1904,flat,gls avenue 51,sector 92,0.5,7812.0,640.0,Super Built up area 640(59.46 sq.m.),3,3,1,0.0,,Relatively New,640.0,,,0,0,0,0,0,1,0,213.33333333333334
-1911,flat,gls avenue 51,sector 92,0.42,6562.0,640.0,Carpet area: 640 (59.46 sq.m.),3,3,1,2.0,,Relatively New,,,640.0,0,0,0,0,0,1,20,213.33333333333334
-1939,flat,gls avenue 51,sector 92,0.5,7812.0,640.0,Carpet area: 640 (59.46 sq.m.),3,3,1,12.0,,New Property,,,640.0,0,0,0,0,0,2,95,213.33333333333334
-1953,flat,signature global the millennia 3,sector 37,0.5,7143.0,700.0,Carpet area: 700 (65.03 sq.m.),3,3,2,2.0,,Undefined,,,700.0,0,0,0,0,0,1,31,233.33333333333334
-1963,flat,laxmi pareena,sector 99,0.3,6667.0,450.0,Carpet area: 450 (41.81 sq.m.),2,1,0,12.0,North,Undefined,,,450.0,0,0,0,0,0,1,0,225.0
-2069,flat,gls arawali homes,sohna road,0.29,6029.0,481.0,Carpet area: 480.53 (44.64 sq.m.),2,2,2,9.0,East,Relatively New,,,480.500496,0,0,0,0,0,1,55,240.5
-2149,flat,pivotal devaan,sector 84,0.35,7246.0,483.0,Carpet area: 483 (44.87 sq.m.),2,2,2,4.0,East,Relatively New,,,483.0,0,0,0,0,0,1,37,241.5
-2254,flat,rof ananda,sector 95,0.55,8527.0,645.0,Super Built up area 1000(92.9 sq.m.)Carpet area: 645 sq.ft. (59.92 sq.m.),3,2,2,14.0,East,New Property,1000.0,,645.0,1,0,0,0,0,0,81,215.0
-2273,flat,mvn athens,sohna road,0.25,5198.0,481.0,Built Up area: 481 (44.69 sq.m.),2,2,0,0.0,,Relatively New,,481.0,,0,0,0,0,0,1,37,240.5
-2281,flat,gls arawali homes,sohna road,0.32,6723.0,476.0,Built Up area: 476 (44.22 sq.m.),2,1,0,0.0,,Undefined,,476.0,,0,0,0,0,0,1,0,238.0
-2292,flat,gls arawali homes,sohna road,0.3,6237.0,481.0,Super Built up area 567(52.68 sq.m.)Carpet area: 480.53 sq.ft. (44.64 sq.m.),2,2,2,4.0,East,Relatively New,567.0,,480.53,0,0,0,0,0,2,120,240.5
-2355,flat,breez global heights 88a,sector 88a,0.5,8375.0,597.0,Carpet area: 597 (55.46 sq.m.),3,2,2,2.0,,Undefined,,,597.0,0,0,0,0,0,1,15,199.0
-2474,flat,ramsons kshitij,sector 95,0.4,5839.0,685.0,Carpet area: 685 (63.64 sq.m.),3,2,2,6.0,,Undefined,,,685.0,0,0,0,0,0,1,0,228.33333333333334
-2509,flat,central park flower valley,sector 33,1.4,21538.0,650.0,Super Built up area 650(60.39 sq.m.),3,3,3,2.0,,Under Construction,650.0,,,0,0,0,0,0,1,54,216.66666666666666
-2517,flat,mvn athens,sohna road,0.26,5394.0,482.0,Carpet area: 481.73 (44.75 sq.m.),2,2,1,5.0,,Relatively New,,,481.684525,0,0,0,0,0,1,95,241.0
-2631,flat,mvn athens,sohna road,0.27,5895.0,458.0,Carpet area: 457.52 (42.5 sq.m.),2,2,1,0.0,,Relatively New,,,457.46575,0,0,0,0,0,0,69,229.0
-2646,flat,gls arawali homes,sohna road,0.28,5983.0,468.0,Carpet area: 468 (43.48 sq.m.),2,2,2,3.0,,Relatively New,,,468.0,0,0,0,0,0,1,42,234.0
-2714,flat,mvn athens,sohna road,0.25,5187.0,482.0,Carpet area: 481.73 (44.75 sq.m.),2,2,1,0.0,North,Relatively New,,,481.684525,0,0,0,1,0,1,90,241.0
-2780,flat,zara aavaas,sector 104,0.49,6577.0,745.0,Super Built up area 745(69.21 sq.m.)Carpet area: 645 sq.ft. (59.92 sq.m.),3,2,2,7.0,,Under Construction,745.0,,645.0,0,0,0,0,0,1,74,248.33333333333334
-2868,flat,mvn athens,sohna road,0.25,5187.0,482.0,Carpet area: 481.73 (44.75 sq.m.),2,2,1,3.0,East,Relatively New,,,481.684525,0,0,0,0,0,1,51,241.0
-2906,flat,prime habitat,sector 99,0.27,5433.0,497.0,Carpet area: 497 (46.17 sq.m.),2,2,1,4.0,North-East,New Property,,,497.0,0,0,0,0,0,1,7,248.5
-2958,house,independent,sector 38,2.1,23333.0,900.0,Plot area 100(83.61 sq.m.),7,7,3+,3.0,North-East,Relatively New,,900.0,,1,0,1,1,0,1,27,128.57142857142858
-2965,house,independent,sector 25,7.6,38756.0,1961.0,Plot area 215(179.77 sq.m.),9,9,3,4.0,East,Relatively New,,1935.0,,1,0,1,1,0,0,84,217.88888888888889
-2992,house,uppal southend,sector 49,3.75,25562.0,1467.0,Plot area 163(136.29 sq.m.),6,6,3,3.0,East,Moderately Old,,1467.0,,0,0,0,0,1,1,49,244.5
-3040,house,independent,sector 105,0.65,9028.0,720.0,Plot area 80(66.89 sq.m.),3,2,1,1.0,East,Relatively New,,720.0,,0,0,0,1,1,1,14,240.0
-3046,house,independent,sector 4,0.67,9795.0,684.0,Plot area 76(7.06 sq.m.),3,3,2,2.0,South,Relatively New,,76.0,,0,0,0,0,1,1,7,228.0
-3062,house,independent,sector 12,1.0,8230.0,1215.0,Plot area 135(12.54 sq.m.)Built Up area: 3750 sq.ft. (348.39 sq.m.),9,7,3+,3.0,North,Moderately Old,,3750.0,,0,0,1,1,0,1,7,135.0
-3063,house,independent,sector 7,0.66,12000.0,550.0,Plot area 550(51.1 sq.m.),3,1,1,3.0,East,Relatively New,,550.0,,0,0,0,0,1,1,22,183.33333333333334
-3064,house,huda ashok vihar phase,sector 4,0.7,10234.0,684.0,Plot area 684(63.55 sq.m.),3,2,1,2.0,North-East,New Property,,684.0,,1,0,0,0,0,1,7,228.0
-3072,house,independent,sector 7,0.9,10000.0,900.0,Plot area 100(83.61 sq.m.),6,4,3,3.0,North-East,Old Property,,900.0,,0,1,0,0,1,0,44,150.0
-3074,house,prem kunj,sohna road,0.5,7407.0,675.0,Plot area 675(62.71 sq.m.)Built Up area: 725 sq.ft. (67.35 sq.m.)Carpet area: 675 sq.ft. (62.71 sq.m.),5,4,3,3.0,South-West,Relatively New,,725.0,675.0,0,0,0,1,0,1,22,135.0
-3075,house,independent,sector 6,0.5,8333.0,600.0,Plot area 600(55.74 sq.m.),3,3,2,2.0,East,Moderately Old,,600.0,,0,0,0,1,0,1,0,200.0
-3076,house,independent,sector 105,0.6,13333.0,450.0,Built Up area: 450 (41.81 sq.m.),3,3,0,3.0,,Undefined,,450.0,,0,0,0,0,0,1,0,150.0
-3077,house,independent,sector 3,0.5,11111.0,450.0,Plot area 450(41.81 sq.m.),5,3,3,3.0,,Moderately Old,,450.0,,0,0,0,0,0,1,0,90.0
-3078,house,independent,sector 105,0.35,7778.0,450.0,Carpet area: 500 (46.45 sq.m.),2,2,1,2.0,East,Undefined,,,500.0,0,0,0,0,0,1,0,225.0
-3081,house,independent,sector 1,1.1,6173.0,1782.0,Plot area 1782(165.55 sq.m.),8,8,0,1.0,,New Property,,1782.0,,0,0,0,0,0,1,0,222.75
-3083,house,independent,sector 8,0.82,9111.0,900.0,Plot area 100(83.61 sq.m.),4,3,3,2.0,North,Moderately Old,,900.0,,0,0,0,0,0,1,12,225.0
-3087,house,housing board colony,sector 28,3.5,25926.0,1350.0,Plot area 150(125.42 sq.m.),6,6,3,3.0,,Relatively New,,1350.0,,0,0,0,0,0,1,0,225.0
-3088,house,independent,sector 1,0.8,6667.0,1200.0,Plot area 1200(111.48 sq.m.),8,8,2,1.0,,Relatively New,,1200.0,,0,0,0,0,0,1,0,150.0
-3089,house,independent,sector 26,6.0,33333.0,1800.0,Plot area 200(167.23 sq.m.),8,5,3+,3.0,,Old Property,,1800.0,,0,0,0,0,0,0,9,225.0
-3090,house,shivpuri,sector 7,2.8,12444.0,2250.0,Plot area 2250(209.03 sq.m.),10,7,3,1.0,,Old Property,,2250.0,,1,1,0,1,1,0,0,225.0
-3094,house,independent,sector 7,1.16,11717.0,990.0,Carpet area: 110 (91.97 sq.m.),5,4,2,1.0,North-East,Undefined,,,110.0,0,0,0,0,0,1,0,198.0
-3096,house,independent,sector 12,0.9,13333.0,675.0,Built Up area: 675 (62.71 sq.m.),4,4,0,2.0,,Undefined,,675.0,,0,0,0,0,0,1,0,168.75
-3097,house,my home,sector 110,0.34,12593.0,270.0,Plot area 270(25.08 sq.m.),2,2,2,3.0,West,Moderately Old,,270.0,,0,0,0,0,0,1,22,135.0
-3105,house,rajendra park gurgaon,sector 105,0.37,10278.0,360.0,Plot area 360(33.45 sq.m.),4,3,2,3.0,East,Relatively New,,360.0,,0,0,0,0,0,1,0,90.0
-3108,house,independent,sector 8,0.49,11239.0,436.0,Plot area 360(33.45 sq.m.),6,3,2,3.0,East,Moderately Old,,360.0,,0,0,0,0,0,1,8,72.66666666666667
-3114,house,independent,sector 21,0.45,8411.0,535.0,Carpet area: 535 (49.7 sq.m.),3,2,1,1.0,,Undefined,,,535.0,0,0,0,0,0,1,0,178.33333333333334
-3118,house,independent,sector 28,0.45,10000.0,450.0,Built Up area: 50 (4.65 sq.m.),5,3,0,1.0,,Undefined,,50.0,,0,0,0,0,0,1,0,90.0
-3121,house,independent,sector 9,0.42,9333.0,450.0,Built Up area: 450 (41.81 sq.m.),5,3,2,2.0,,Undefined,,450.0,,0,0,0,0,0,1,0,90.0
-3122,house,bhawani enclave,sector 12,0.42,8235.0,510.0,Plot area 565(52.49 sq.m.)Carpet area: 510 sq.ft. (47.38 sq.m.),3,3,0,2.0,East,New Property,,,510.0,0,0,0,1,0,1,0,170.0
-3123,house,independent,sector 105,1.2,13333.0,900.0,Plot area 900(83.61 sq.m.),7,4,1,2.0,South-West,Moderately Old,,900.0,,0,0,0,0,1,1,14,128.57142857142858
-3129,house,independent,sector 9,0.22,7407.0,297.0,Carpet area: 33 (27.59 sq.m.),2,2,2,1.0,,Undefined,,,33.0,0,0,0,0,0,1,0,148.5
-3130,house,independent,sector 4,0.5,10482.0,477.0,Built Up area: 53 (44.31 sq.m.),5,3,0,1.0,,Undefined,,53.0,,0,0,0,0,0,1,0,95.4
-3131,house,independent,sector 9,1.25,8735.0,1431.0,Plot area 159(132.94 sq.m.),10,6,3+,3.0,,Old Property,,1431.0,,0,0,0,0,0,1,0,143.1
-3139,house,independent,sector 21,0.6,6173.0,972.0,Plot area 108(90.3 sq.m.),8,3,2,3.0,,Old Property,,972.0,,0,0,0,0,0,1,0,121.5
-3141,house,independent,sector 12,2.5,13889.0,1800.0,Plot area 1800(167.23 sq.m.),9,5,2,1.0,South-East,Old Property,,1800.0,,0,0,0,1,0,1,8,200.0
-3145,house,independent,sector 7,1.16,11694.0,992.0,Plot area 992(92.16 sq.m.)Carpet area: 992 sq.ft. (92.16 sq.m.),5,4,2,3.0,North-East,Moderately Old,,,992.0,0,0,0,0,1,1,39,198.4
-3150,house,"bhim nagar, sector 6",sector 6,0.85,14096.0,603.0,Plot area 67(6.22 sq.m.),5,2,2,1.0,,Old Property,,67.0,,0,0,0,1,0,1,29,120.6
-3154,house,not applicable,sector 4,0.51,14167.0,360.0,Plot area 40(33.45 sq.m.),4,4,3,4.0,,New Property,,360.0,,0,0,0,0,0,1,0,90.0
-3155,house,independent,sector 4,1.1,11111.0,990.0,Built Up area: 990 (91.97 sq.m.),6,4,1,2.0,North,Undefined,,990.0,,0,0,0,0,0,1,0,165.0
-3162,house,independent,sector 105,0.37,8222.0,450.0,Plot area 450(41.81 sq.m.),2,2,1,1.0,,Moderately Old,,450.0,,0,0,0,0,1,1,0,225.0
-3165,house,independent,sector 8,0.62,11273.0,550.0,Built Up area: 550 (51.1 sq.m.),3,1,0,2.0,,Undefined,,550.0,,0,0,0,0,0,1,0,183.33333333333334
-3172,house,independent,sector 17,0.32,22069.0,145.0,Built Up area: 145 (13.47 sq.m.),2,2,0,3.0,,Undefined,,145.0,,0,0,0,0,0,1,0,72.5
-3173,house,independent,sector 4,0.65,11111.0,585.0,Plot area 65(54.35 sq.m.),4,2,2,,,Moderately Old,,585.0,,0,0,0,0,0,1,0,146.25
-3175,house,independent,sector 7,0.95,21111.0,450.0,Plot area 450(41.81 sq.m.),2,1,1,3.0,,New Property,,450.0,,0,0,0,0,0,1,15,225.0
-3177,house,independent,sector 6,0.66,10784.0,612.0,Plot area 612(56.86 sq.m.),3,2,1,2.0,,Old Property,,612.0,,0,0,0,0,0,1,36,204.0
-3178,house,independent,sector 104,0.45,12162.0,370.0,Plot area 370(34.37 sq.m.)Carpet area: 1500 sq.ft. (139.35 sq.m.),4,4,2,4.0,North,Moderately Old,,,1500.0,0,0,0,0,0,0,7,92.5
-3186,house,iffco nagar and 17b rwa,sector 17,3.5,24306.0,1440.0,Plot area 1440(133.78 sq.m.),6,5,3,3.0,East,Old Property,,1440.0,,0,0,0,0,0,1,44,240.0
-3193,house,independent,sector 3,0.92,15257.0,603.0,Built Up area: 603 (56.02 sq.m.),4,1,0,1.0,,Undefined,,603.0,,0,0,0,0,0,1,0,150.75
-3194,house,independent,sector 4,1.1,6111.0,1800.0,Plot area 200(167.23 sq.m.),8,4,3+,2.0,West,Old Property,,1800.0,,0,0,0,0,0,1,7,225.0
-3195,house,surendra homes dayaindependentd colony,sector 6,0.75,15625.0,480.0,Built Up area: 480 (44.59 sq.m.),4,4,2,1.0,,Undefined,,480.0,,0,0,0,0,0,1,0,120.0
-3202,house,independent,sector 3,1.1,10000.0,1100.0,Built Up area: 1100 (102.19 sq.m.)Carpet area: 900 sq.ft. (83.61 sq.m.),5,4,2,1.0,East,Undefined,,1100.0,900.0,0,0,0,0,0,1,0,220.0
-3203,house,rk excelo,sector 12,0.6,13333.0,450.0,Plot area 50(4.65 sq.m.)Built Up area: 30 sq.ft. (2.79 sq.m.)Carpet area: 15 sq.ft. (1.39 sq.m.),5,3,2,3.0,North,Moderately Old,,30.0,15.0,0,0,0,0,1,1,0,90.0
-3204,house,independent,sohna road,1.2,22305.0,538.0,Plot area 50,4,4,3+,4.0,West,Old Property,,535.0,,0,0,0,0,0,1,8,134.5
-3209,house,independent,sector 28,0.75,20833.0,360.0,Plot area 40(33.45 sq.m.),7,4,3+,4.0,,Moderately Old,,360.0,,0,0,0,0,0,1,7,51.42857142857143
-3210,house,independent,sector 12,6.0,35088.0,1710.0,Plot area 190(17.65 sq.m.)Carpet area: 1600 sq.ft. (148.64 sq.m.),9,6,2,2.0,North-East,Old Property,,,1600.0,0,0,0,0,0,1,0,190.0
-3211,house,independent,sector 8,0.82,10224.0,802.0,Carpet area: 802 (74.51 sq.m.),4,4,0,2.0,,Undefined,,,802.0,0,0,0,0,0,1,0,200.5
-3217,house,independent,sector 9,0.6,10753.0,558.0,Plot area 62(51.84 sq.m.),3,3,1,2.0,,Relatively New,,558.0,,0,0,0,0,0,1,0,186.0
-3220,house,independent,sector 4,0.6,11696.0,513.0,Plot area 57(5.3 sq.m.),3,3,1,2.0,,Old Property,,57.0,,0,0,0,0,1,1,0,171.0
-3222,house,ganpati heights apartment,sector 13,1.25,12077.0,1035.0,Plot area 115(7692.86 sq.m.),10,6,2,3.0,South-East,Old Property,,115.0,,0,0,0,0,1,1,7,103.5
-3224,house,independent,sector 6,0.5,13889.0,360.0,Plot area 40(33.45 sq.m.),5,3,3,3.0,,Old Property,,360.0,,0,0,0,0,0,1,0,72.0
-3226,house,housing board colony,sector 28,2.1,23333.0,900.0,Plot area 100(83.61 sq.m.),8,8,3+,4.0,South-East,Moderately Old,,900.0,,0,0,0,0,1,0,38,112.5
-3228,house,independent,sector 12,0.65,6500.0,1000.0,Carpet area: 1000 (92.9 sq.m.),6,2,3,1.0,,Undefined,,,1000.0,0,0,0,0,0,1,0,166.66666666666666
-3230,house,independent,sector 13,0.9,11465.0,785.0,Plot area 785(72.93 sq.m.),5,4,3,3.0,North-West,Moderately Old,,785.0,,1,1,0,1,1,1,0,157.0
-3231,house,not applicable,sector 4,0.75,11719.0,640.0,Plot area 640(59.46 sq.m.),5,4,3,2.0,,Moderately Old,,640.0,,0,0,0,0,0,1,0,128.0
-3240,house,independent,sector 11,2.1,17284.0,1215.0,Plot area 135(112.88 sq.m.),6,6,3+,3.0,,Relatively New,,1215.0,,0,0,0,0,0,1,14,202.5
-3243,house,independent,sector 105,1.1,12222.0,900.0,Carpet area: 900 (83.61 sq.m.),6,4,1,1.0,South-West,Undefined,,,900.0,0,0,0,0,0,1,0,150.0
-3245,house,huda housing board colony,sector 31,4.6,31507.0,1460.0,Plot area 1460(135.64 sq.m.),6,4,3+,3.0,East,Old Property,,1460.0,,0,0,0,0,1,1,8,243.33333333333334
-3246,house,independent,sector 9,0.35,9722.0,360.0,Plot area 40(33.45 sq.m.),2,2,1,2.0,South-East,Old Property,,360.0,,0,0,0,0,0,1,0,180.0
-3251,house,shri shyam residency,sector 104,0.62,12400.0,500.0,Plot area 500(46.45 sq.m.)Built Up area: 900 sq.ft. (83.61 sq.m.)Carpet area: 480 sq.ft. (44.59 sq.m.),3,3,1,2.0,,Moderately Old,,900.0,480.0,0,0,0,0,1,2,8,166.66666666666666
-3252,house,independent,sector 4,0.5,9259.0,540.0,Plot area 540(50.17 sq.m.),5,3,2,3.0,West,Old Property,,540.0,,0,0,0,0,0,1,0,108.0
-3254,house,independent,sector 4,0.92,15257.0,603.0,Plot area 67(56.02 sq.m.),4,4,3,4.0,East,Moderately Old,,603.0,,0,0,0,0,1,1,0,150.75
-3255,house,independent,sector 17,3.5,24306.0,1440.0,Built Up area: 160 (14.86 sq.m.),6,6,3+,3.0,North-West,Undefined,,160.0,,0,0,0,0,0,1,0,240.0
-3264,house,independent,sector 105,1.2,10118.0,1186.0,Plot area 1185.51(110.14 sq.m.),6,2,1,2.0,North-West,Old Property,,1185.51,,0,0,0,0,0,1,9,197.66666666666666
-3272,house,row house,sector 105,0.43,9130.0,471.0,Plot area 52(43.48 sq.m.)Built Up area: 1050 sq.yards (877.93 sq.m.),3,3,3,2.0,,Relatively New,,1050.0,,0,0,0,0,0,1,0,157.0
-3273,house,independent,sector 8,0.32,7111.0,450.0,Built Up area: 450 (41.81 sq.m.)Carpet area: 300 sq.ft. (27.87 sq.m.),2,3,1,1.0,North-East,Relatively New,,450.0,300.0,0,0,0,0,0,1,0,225.0
-3276,house,madan puri,sector 7,0.75,12500.0,600.0,Plot area 600(55.74 sq.m.),3,5,3,3.0,South-East,Moderately Old,,600.0,,0,0,0,0,0,1,0,200.0
-3278,house,jacobpura,sector 12,0.53,14601.0,363.0,Plot area 360(33.45 sq.m.),4,4,2,3.0,East,Relatively New,,360.0,,0,0,0,0,0,1,0,90.75
-3280,house,independent,sector 13,1.5,11538.0,1300.0,Plot area 1300(120.77 sq.m.),10,7,3,4.0,East,Moderately Old,,1300.0,,0,0,0,0,0,1,0,130.0
-3281,house,independent,sector 12,1.35,12217.0,1105.0,Plot area 150(125.42 sq.m.)Built Up area: 2052 sq.yards (1715.73 sq.m.),5,5,1,3.0,,Old Property,,2052.0,,0,0,0,0,0,1,31,221.0
-3282,house,independent,sector 6,1.25,11574.0,1080.0,Plot area 120(100.34 sq.m.)Built Up area: 120 sq.yards (100.34 sq.m.),5,5,1,2.0,South,New Property,,120.0,,0,0,0,1,0,1,0,216.0
-3284,house,naman residency,sector 4,0.5,11111.0,450.0,Plot area 450(41.81 sq.m.),2,2,2,2.0,West,New Property,,450.0,,1,1,0,1,1,1,14,225.0
-3285,house,independent,sector 2,1.0,8230.0,1215.0,Plot area 135(112.88 sq.m.),9,7,3+,3.0,North,Moderately Old,,1215.0,,0,0,0,1,0,1,0,135.0
-3288,house,independent,sector 4,0.8,11852.0,675.0,Plot area 75(62.71 sq.m.),5,3,1,2.0,,Moderately Old,,675.0,,0,0,0,0,0,1,0,135.0
-3289,house,independent,sector 11,0.9,10000.0,900.0,Plot area 900(83.61 sq.m.),7,4,3+,4.0,,Moderately Old,,900.0,,0,0,0,0,0,1,7,128.57142857142858
-3290,house,independent,sector 47,4.3,29312.0,1467.0,Plot area 163(136.29 sq.m.),6,4,2,2.0,,Moderately Old,,1467.0,,0,0,0,0,1,1,0,244.5
-3291,house,sai kripa floors 5,sector 11,0.9,11250.0,800.0,Plot area 800(74.32 sq.m.),5,5,3,3.0,,Relatively New,,800.0,,0,0,0,0,0,1,0,160.0
-3296,house,independent,sector 105,0.55,10913.0,504.0,Built Up area: 56 (5.2 sq.m.),4,4,0,2.0,,Undefined,,56.0,,0,0,0,0,0,1,0,126.0
-3297,house,rattan garden,sector 7,1.3,13499.0,963.0,Built Up area: 963 (89.47 sq.m.),5,3,2,3.0,,Old Property,,963.0,,0,0,0,0,0,1,0,192.6
-3300,house,independent,sector 17,0.32,5664.0,565.0,Built Up area: 565 (52.49 sq.m.),5,1,0,1.0,,Undefined,,565.0,,0,0,0,0,0,1,0,113.0
-3302,house,independent,sector 105,0.38,8444.0,450.0,Carpet area: 50 (4.65 sq.m.),2,2,2,1.0,,Undefined,,,50.0,0,0,0,0,0,1,0,225.0
-3322,house,independent,sector 47,4.6,26620.0,1728.0,Plot area 192(160.54 sq.m.),7,6,3+,4.0,,Moderately Old,,1728.0,,0,0,0,0,0,2,51,246.85714285714286
-3325,house,jacob pura,sector 12,0.35,9722.0,360.0,Built Up area: 360 (33.45 sq.m.),2,1,0,,,Old Property,,360.0,,0,0,0,0,0,1,0,180.0
-3328,house,"nirmal enclave, maruti kunj road",sector 11,0.24,5333.0,450.0,Plot area 450(41.81 sq.m.),2,2,0,2.0,North,Relatively New,,450.0,,0,0,0,0,0,1,0,225.0
-3333,house,rattan garden,sector 7,0.83,17585.0,472.0,Carpet area: 472 (43.85 sq.m.),5,3,2,3.0,East,Undefined,,,472.0,0,0,0,0,0,1,0,94.4
-3335,house,independent,sector 2,0.98,9074.0,1080.0,Carpet area: 120 (100.34 sq.m.),9,4,3,1.0,South,Undefined,,,120.0,0,0,0,0,0,1,0,120.0
-3338,house,independent,sector 7,1.2,11194.0,1072.0,Built Up area: 1072 (99.59 sq.m.),5,4,2,3.0,,Undefined,,1072.0,,0,0,0,0,0,1,0,214.4
-3349,house,independent,sector 3,0.85,9444.0,900.0,Carpet area: 900 (83.61 sq.m.),5,3,3,1.0,,Undefined,,,900.0,0,0,0,0,0,1,0,180.0
-3362,house,independent,sector 6,0.75,10519.0,713.0,Plot area 713(66.24 sq.m.),6,4,1,3.0,,Moderately Old,,713.0,,0,0,0,0,0,1,62,118.83333333333333
-3364,house,independent,sector 28,0.7,8102.0,864.0,Plot area 864(80.27 sq.m.),4,2,0,2.0,North,Old Property,,864.0,,0,0,0,0,0,1,7,216.0
-3366,house,independent,sector 12,1.2,14184.0,846.0,Plot area 846(78.6 sq.m.)Built Up area: 846 sq.ft. (78.6 sq.m.),4,4,2,2.0,North,Relatively New,,846.0,,0,0,0,1,0,0,7,211.5
-3368,house,ss omnia,sector 86,0.42,9333.0,450.0,Plot area 50(4.65 sq.m.),5,3,2,3.0,,Relatively New,,50.0,,0,0,0,0,0,1,0,90.0
-3370,house,independent,sector 11,3.5,15556.0,2250.0,Built Up area: 2250 (209.03 sq.m.),10,1,0,1.0,,New Property,,2250.0,,0,0,0,0,0,1,0,225.0
-3375,house,sheetla enclave,sector 5,0.96,10000.0,960.0,Plot area 945(87.79 sq.m.),7,4,2,3.0,,Moderately Old,,945.0,,0,0,1,1,0,0,0,137.14285714285714
-3386,house,rattan vihar rajendra park,sector 9,0.85,14167.0,600.0,Plot area 600(55.74 sq.m.),5,5,3+,4.0,,New Property,,600.0,,0,0,0,0,0,1,0,120.0
-3389,house,independent,sector 7,0.89,18658.0,477.0,Plot area 477(44.31 sq.m.),5,3,2,2.0,East,Old Property,,477.0,,0,0,0,0,0,1,8,95.4
-3396,house,ashok vihar phase iii extension,sector 3,0.4,8889.0,450.0,Plot area 50(41.81 sq.m.),7,4,3+,4.0,,New Property,,450.0,,0,0,0,1,0,1,7,64.28571428571429
-3398,house,ansal,sector 43,1.85,34259.0,540.0,Plot area 60(5.57 sq.m.),8,8,3+,5.0,North-West,Relatively New,,60.0,,0,0,0,0,0,1,53,67.5
-3399,house,independent,sector 3,0.8,8155.0,981.0,Plot area 109(91.14 sq.m.),5,4,1,2.0,,Moderately Old,,981.0,,0,0,0,0,0,1,0,196.2
-3405,house,independent,sector 24,3.5,32407.0,1080.0,Plot area 120(100.34 sq.m.),5,4,3,3.0,North-West,Old Property,,1080.0,,0,0,0,0,0,1,15,216.0
-3416,house,palam vihar extension west zone rwa,sector 2,0.4,4444.0,900.0,Plot area 900(83.61 sq.m.),6,4,2,2.0,West,Moderately Old,,900.0,,0,0,0,0,0,1,36,150.0
-3422,house,independent,sector 7,0.27,12000.0,225.0,Plot area 225(20.9 sq.m.),2,2,1,2.0,North-East,Moderately Old,,225.0,,0,0,0,0,0,1,12,112.5
-3424,house,independent,sohna road,0.95,8920.0,1065.0,Plot area 1065(98.94 sq.m.),10,10,3+,3.0,,New Property,,1065.0,,0,0,0,0,0,1,0,106.5
-3427,house,independent,sector 104,0.6,5128.0,1170.0,Plot area 130(108.7 sq.m.),7,3,1,2.0,North,Moderately Old,,1170.0,,0,0,0,0,0,1,0,167.14285714285714
-3438,house,independent,sector 2,3.65,23443.0,1557.0,Plot area 173(144.65 sq.m.),9,9,3+,3.0,West,New Property,,1557.0,,0,1,0,1,0,0,116,173.0
-3446,house,independent,sector 105,0.6,11111.0,540.0,Plot area 60(50.17 sq.m.),8,4,3,3.0,West,New Property,,540.0,,0,0,0,0,0,1,17,67.5
-3455,house,independent,sector 55,1.45,26852.0,540.0,Plot area 60(5.57 sq.m.),4,4,3+,4.0,East,Relatively New,,60.0,,0,0,1,0,0,1,70,135.0
-3457,house,dlf city plots phase 2,sector 25,6.5,33592.0,1935.0,Plot area 215(179.77 sq.m.),9,9,3+,3.0,West,Old Property,,1935.0,,1,1,1,1,0,0,142,215.0
-3458,house,independent,sector 45,4.49,24455.0,1836.0,Plot area 204(170.57 sq.m.),9,9,3+,3.0,North-West,Moderately Old,,1836.0,,0,0,0,0,1,0,90,204.0
-3519,house,unitech south city,sector 50,5.88,27222.0,2160.0,Plot area 240(200.67 sq.m.),9,9,3+,3.0,East,Relatively New,,2160.0,,1,1,0,1,1,2,128,240.0
-3520,house,independent,sector 4,0.47,10609.0,443.0,Plot area 49(40.97 sq.m.)Built Up area: 50 sq.yards (41.81 sq.m.)Carpet area: 48 sq.yards (40.13 sq.m.),2,2,1,2.0,East,New Property,,50.0,48.0,1,0,0,0,0,0,73,221.5
-3526,house,independent,sector 46,4.35,23693.0,1836.0,Plot area 204(170.57 sq.m.),8,8,2,3.0,North-East,Relatively New,,1836.0,,1,0,0,1,0,0,19,229.5
-3529,house,independent,sector 2,1.15,19360.0,594.0,Plot area 66(55.18 sq.m.),3,3,2,2.0,South-East,Old Property,,594.0,,0,0,0,0,0,0,32,198.0
-3566,house,independent,sector 47,0.99,17188.0,576.0,Plot area 64(53.51 sq.m.),4,4,3,4.0,,Relatively New,,576.0,,0,0,0,0,0,1,13,144.0
-3570,house,independent,sector 10,3.6,19608.0,1836.0,Plot area 204(170.57 sq.m.),8,4,3,3.0,North,Moderately Old,,1836.0,,0,0,0,1,0,0,28,229.5
-3599,house,independent,sector 47,5.15,26615.0,1935.0,Plot area 215(179.77 sq.m.),9,9,3+,3.0,East,Relatively New,,1935.0,,0,0,1,0,0,0,75,215.0
-3684,house,independent,sector 24,4.5,33333.0,1350.0,Plot area 163(136.29 sq.m.)Built Up area: 160 sq.yards (133.78 sq.m.)Carpet area: 150 sq.yards (125.42 sq.m.),10,8,3+,4.0,East,Relatively New,,160.0,150.0,0,1,1,0,0,0,56,135.0
-3701,house,independent,sector 43,5.3,27390.0,1935.0,Plot area 215(179.77 sq.m.),9,9,3+,3.0,East,Moderately Old,,1935.0,,0,1,0,0,0,0,71,215.0
-3713,house,independent,sector 41,4.25,26235.0,1620.0,Plot area 180(150.5 sq.m.),10,9,3+,4.0,North,Moderately Old,,1620.0,,1,1,0,0,0,0,36,162.0
-3733,house,uppal southend,sector 49,3.75,25562.0,1467.0,Built Up area: 163 (136.29 sq.m.),6,6,3+,3.0,East,Moderately Old,,163.0,,1,0,0,0,0,0,26,244.5
-3765,house,sector 57 huda,sector 57,3.8,26063.0,1458.0,Plot area 162(135.45 sq.m.)Built Up area: 162 sq.yards (135.45 sq.m.)Carpet area: 160 sq.yards (133.78 sq.m.),8,8,3+,4.0,East,Relatively New,,162.0,160.0,0,0,1,1,0,0,94,182.25
-3767,house,sector 38 rwa,sector 38,1.4,23932.0,585.0,Plot area 65(54.35 sq.m.)Built Up area: 62 sq.yards (51.84 sq.m.)Carpet area: 60 sq.yards (50.17 sq.m.),8,8,3,4.0,East,Moderately Old,,62.0,60.0,0,0,0,0,1,0,40,73.125
-3777,house,sector 38 rwa,sector 38,4.3,28782.0,1494.0,Plot area 166(138.8 sq.m.)Built Up area: 165 sq.yards (137.96 sq.m.)Carpet area: 164 sq.yards (137.12 sq.m.),9,9,3+,3.0,East,Relatively New,,165.0,164.0,0,0,0,1,1,0,41,166.0
-3783,house,independent,sector 55,5.0,44444.0,1125.0,Plot area 125(104.52 sq.m.)Built Up area: 115 sq.yards (96.15 sq.m.)Carpet area: 100 sq.yards (83.61 sq.m.),9,9,3+,5.0,East,New Property,,115.0,100.0,0,0,0,0,1,0,44,125.0
-3786,house,iffco nagar and 17b rwa,sector 17,2.98,20566.0,1449.0,Plot area 161(134.62 sq.m.),6,6,3+,3.0,East,Relatively New,,1449.0,,1,0,0,1,0,1,78,241.5
-3787,house,huda floor,sector 38,4.0,22222.0,1800.0,Plot area 1800(167.23 sq.m.)Built Up area: 4800 sq.ft. (445.93 sq.m.)Carpet area: 3800 sq.ft. (353.03 sq.m.),9,9,3+,2.0,East,Relatively New,,4800.0,3800.0,0,0,1,1,0,0,152,200.0
+3209,house,independent,sector 28,0.75,20833,360,Plot area 40(33.45 sq.m.),7,4,3+,4,,Moderately Old,,360,,0,0,0,0,0,1,7,51.42857143
+3396,house,ashok vihar phase iii extension,sector 3,0.4,8889,450,Plot area 50(41.81 sq.m.),7,4,3+,4,,New Property,,450,,0,0,0,1,0,1,7,64.28571429
+3398,house,ansal,sector 43,1.85,34259,540,Plot area 60(5.57 sq.m.),8,8,3+,5,North-West,Relatively New,,60,,0,0,0,0,0,1,53,67.5
+3446,house,independent,sector 105,0.6,11111,540,Plot area 60(50.17 sq.m.),8,4,3,3,West,New Property,,540,,0,0,0,0,0,1,17,67.5
+3224,house,independent,sector 6,0.5,13889,360,Plot area 40(33.45 sq.m.),5,3,3,3,,Old Property,,360,,0,0,0,0,0,1,0,72
+3172,house,independent,sector 17,0.32,22069,145,Built Up area: 145 (13.47 sq.m.),2,2,0,3,,Undefined,,145,,0,0,0,0,0,1,0,72.5
+3108,house,independent,sector 8,0.49,11239,436,Plot area 360(33.45 sq.m.),6,3,2,3,East,Moderately Old,,360,,0,0,0,0,0,1,8,72.66666667
+3767,house,sector 38 rwa,sector 38,1.4,23932,585,Plot area 65(54.35 sq.m.)Built Up area: 62 sq.yards (51.84 sq.m.)Carpet area: 60 sq.yards (50.17 sq.m.),8,8,3,4,East,Moderately Old,,62,60,0,0,0,0,1,0,40,73.125
+3077,house,independent,sector 3,0.5,11111,450,Plot area 450(41.81 sq.m.),5,3,3,3,,Moderately Old,,450,,0,0,0,0,0,1,0,90
+3105,house,rajendra park gurgaon,sector 105,0.37,10278,360,Plot area 360(33.45 sq.m.),4,3,2,3,East,Relatively New,,360,,0,0,0,0,0,1,0,90
+3118,house,independent,sector 28,0.45,10000,450,Built Up area: 50 (4.65 sq.m.),5,3,0,1,,Undefined,,50,,0,0,0,0,0,1,0,90
+3121,house,independent,sector 9,0.42,9333,450,Built Up area: 450 (41.81 sq.m.),5,3,2,2,,Undefined,,450,,0,0,0,0,0,1,0,90
+3154,house,not applicable,sector 4,0.51,14167,360,Plot area 40(33.45 sq.m.),4,4,3,4,,New Property,,360,,0,0,0,0,0,1,0,90
+3203,house,rk excelo,sector 12,0.6,13333,450,Plot area 50(4.65 sq.m.)Built Up area: 30 sq.ft. (2.79 sq.m.)Carpet area: 15 sq.ft. (1.39 sq.m.),5,3,2,3,North,Moderately Old,,30,15,0,0,0,0,1,1,0,90
+3368,house,ss omnia,sector 86,0.42,9333,450,Plot area 50(4.65 sq.m.),5,3,2,3,,Relatively New,,50,,0,0,0,0,0,1,0,90
+3278,house,jacobpura,sector 12,0.53,14601,363,Plot area 360(33.45 sq.m.),4,4,2,3,East,Relatively New,,360,,0,0,0,0,0,1,0,90.75
+3178,house,independent,sector 104,0.45,12162,370,Plot area 370(34.37 sq.m.)Carpet area: 1500 sq.ft. (139.35 sq.m.),4,4,2,4,North,Moderately Old,,,1500,0,0,0,0,0,0,7,92.5
+3333,house,rattan garden,sector 7,0.83,17585,472,Carpet area: 472 (43.85 sq.m.),5,3,2,3,East,Undefined,,,472,0,0,0,0,0,1,0,94.4
+3130,house,independent,sector 4,0.5,10482,477,Built Up area: 53 (44.31 sq.m.),5,3,0,1,,Undefined,,53,,0,0,0,0,0,1,0,95.4
+3389,house,independent,sector 7,0.89,18658,477,Plot area 477(44.31 sq.m.),5,3,2,2,East,Old Property,,477,,0,0,0,0,0,1,8,95.4
+3222,house,ganpati heights apartment,sector 13,1.25,12077,1035,Plot area 115(7692.86 sq.m.),10,6,2,3,South-East,Old Property,,115,,0,0,0,0,1,1,7,103.5
+3424,house,independent,sohna road,0.95,8920,1065,Plot area 1065(98.94 sq.m.),10,10,3+,3,,New Property,,1065,,0,0,0,0,0,1,0,106.5
+3252,house,independent,sector 4,0.5,9259,540,Plot area 540(50.17 sq.m.),5,3,2,3,West,Old Property,,540,,0,0,0,0,0,1,0,108
+3226,house,housing board colony,sector 28,2.1,23333,900,Plot area 100(83.61 sq.m.),8,8,3+,4,South-East,Moderately Old,,900,,0,0,0,0,1,0,38,112.5
+3422,house,independent,sector 7,0.27,12000,225,Plot area 225(20.9 sq.m.),2,2,1,2,North-East,Moderately Old,,225,,0,0,0,0,0,1,12,112.5
+3300,house,independent,sector 17,0.32,5664,565,Built Up area: 565 (52.49 sq.m.),5,1,0,1,,Undefined,,565,,0,0,0,0,0,1,0,113
+3362,house,independent,sector 6,0.75,10519,713,Plot area 713(66.24 sq.m.),6,4,1,3,,Moderately Old,,713,,0,0,0,0,0,1,62,118.8333333
+3195,house,surendra homes dayaindependentd colony,sector 6,0.75,15625,480,Built Up area: 480 (44.59 sq.m.),4,4,2,1,,Undefined,,480,,0,0,0,0,0,1,0,120
+3335,house,independent,sector 2,0.98,9074,1080,Carpet area: 120 (100.34 sq.m.),9,4,3,1,South,Undefined,,,120,0,0,0,0,0,1,0,120
+3386,house,rattan vihar rajendra park,sector 9,0.85,14167,600,Plot area 600(55.74 sq.m.),5,5,3+,4,,New Property,,600,,0,0,0,0,0,1,0,120
+3150,house,"bhim nagar, sector 6",sector 6,0.85,14096,603,Plot area 67(6.22 sq.m.),5,2,2,1,,Old Property,,67,,0,0,0,1,0,1,29,120.6
+3139,house,independent,sector 21,0.6,6173,972,Plot area 108(90.3 sq.m.),8,3,2,3,,Old Property,,972,,0,0,0,0,0,1,0,121.5
+3783,house,independent,sector 55,5,44444,1125,Plot area 125(104.52 sq.m.)Built Up area: 115 sq.yards (96.15 sq.m.)Carpet area: 100 sq.yards (83.61 sq.m.),9,9,3+,5,East,New Property,,115,100,0,0,0,0,1,0,44,125
+3296,house,independent,sector 105,0.55,10913,504,Built Up area: 56 (5.2 sq.m.),4,4,0,2,,Undefined,,56,,0,0,0,0,0,1,0,126
+3231,house,not applicable,sector 4,0.75,11719,640,Plot area 640(59.46 sq.m.),5,4,3,2,,Moderately Old,,640,,0,0,0,0,0,1,0,128
+2958,house,independent,sector 38,2.1,23333,900,Plot area 100(83.61 sq.m.),7,7,3+,3,North-East,Relatively New,,900,,1,0,1,1,0,1,27,128.5714286
+3123,house,independent,sector 105,1.2,13333,900,Plot area 900(83.61 sq.m.),7,4,1,2,South-West,Moderately Old,,900,,0,0,0,0,1,1,14,128.5714286
+3289,house,independent,sector 11,0.9,10000,900,Plot area 900(83.61 sq.m.),7,4,3+,4,,Moderately Old,,900,,0,0,0,0,0,1,7,128.5714286
+3280,house,independent,sector 13,1.5,11538,1300,Plot area 1300(120.77 sq.m.),10,7,3,4,East,Moderately Old,,1300,,0,0,0,0,0,1,0,130
+3204,house,independent,sohna road,1.2,22305,538,Plot area 50,4,4,3+,4,West,Old Property,,535,,0,0,0,0,0,1,8,134.5
+3062,house,independent,sector 12,1,8230,1215,Plot area 135(12.54 sq.m.)Built Up area: 3750 sq.ft. (348.39 sq.m.),9,7,3+,3,North,Moderately Old,,3750,,0,0,1,1,0,1,7,135
+3074,house,prem kunj,sohna road,0.5,7407,675,Plot area 675(62.71 sq.m.)Built Up area: 725 sq.ft. (67.35 sq.m.)Carpet area: 675 sq.ft. (62.71 sq.m.),5,4,3,3,South-West,Relatively New,,725,675,0,0,0,1,0,1,22,135
+3097,house,my home,sector 110,0.34,12593,270,Plot area 270(25.08 sq.m.),2,2,2,3,West,Moderately Old,,270,,0,0,0,0,0,1,22,135
+3285,house,independent,sector 2,1,8230,1215,Plot area 135(112.88 sq.m.),9,7,3+,3,North,Moderately Old,,1215,,0,0,0,1,0,1,0,135
+3288,house,independent,sector 4,0.8,11852,675,Plot area 75(62.71 sq.m.),5,3,1,2,,Moderately Old,,675,,0,0,0,0,0,1,0,135
+3455,house,independent,sector 55,1.45,26852,540,Plot area 60(5.57 sq.m.),4,4,3+,4,East,Relatively New,,60,,0,0,1,0,0,1,70,135
+3684,house,independent,sector 24,4.5,33333,1350,Plot area 163(136.29 sq.m.)Built Up area: 160 sq.yards (133.78 sq.m.)Carpet area: 150 sq.yards (125.42 sq.m.),10,8,3+,4,East,Relatively New,,160,150,0,1,1,0,0,0,56,135
+3375,house,sheetla enclave,sector 5,0.96,10000,960,Plot area 945(87.79 sq.m.),7,4,2,3,,Moderately Old,,945,,0,0,1,1,0,0,0,137.1428571
+3131,house,independent,sector 9,1.25,8735,1431,Plot area 159(132.94 sq.m.),10,6,3+,3,,Old Property,,1431,,0,0,0,0,0,1,0,143.1
+3566,house,independent,sector 47,0.99,17188,576,Plot area 64(53.51 sq.m.),4,4,3,4,,Relatively New,,576,,0,0,0,0,0,1,13,144
+3173,house,independent,sector 4,0.65,11111,585,Plot area 65(54.35 sq.m.),4,2,2,,,Moderately Old,,585,,0,0,0,0,0,1,0,146.25
+3129,house,independent,sector 9,0.22,7407,297,Carpet area: 33 (27.59 sq.m.),2,2,2,1,,Undefined,,,33,0,0,0,0,0,1,0,148.5
+3072,house,independent,sector 7,0.9,10000,900,Plot area 100(83.61 sq.m.),6,4,3,3,North-East,Old Property,,900,,0,1,0,0,1,0,44,150
+3076,house,independent,sector 105,0.6,13333,450,Built Up area: 450 (41.81 sq.m.),3,3,0,3,,Undefined,,450,,0,0,0,0,0,1,0,150
+3088,house,independent,sector 1,0.8,6667,1200,Plot area 1200(111.48 sq.m.),8,8,2,1,,Relatively New,,1200,,0,0,0,0,0,1,0,150
+3243,house,independent,sector 105,1.1,12222,900,Carpet area: 900 (83.61 sq.m.),6,4,1,1,South-West,Undefined,,,900,0,0,0,0,0,1,0,150
+3416,house,palam vihar extension west zone rwa,sector 2,0.4,4444,900,Plot area 900(83.61 sq.m.),6,4,2,2,West,Moderately Old,,900,,0,0,0,0,0,1,36,150
+3193,house,independent,sector 3,0.92,15257,603,Built Up area: 603 (56.02 sq.m.),4,1,0,1,,Undefined,,603,,0,0,0,0,0,1,0,150.75
+3254,house,independent,sector 4,0.92,15257,603,Plot area 67(56.02 sq.m.),4,4,3,4,East,Moderately Old,,603,,0,0,0,0,1,1,0,150.75
+3230,house,independent,sector 13,0.9,11465,785,Plot area 785(72.93 sq.m.),5,4,3,3,North-West,Moderately Old,,785,,1,1,0,1,1,1,0,157
+3272,house,row house,sector 105,0.43,9130,471,Plot area 52(43.48 sq.m.)Built Up area: 1050 sq.yards (877.93 sq.m.),3,3,3,2,,Relatively New,,1050,,0,0,0,0,0,1,0,157
+3291,house,sai kripa floors 5,sector 11,0.9,11250,800,Plot area 800(74.32 sq.m.),5,5,3,3,,Relatively New,,800,,0,0,0,0,0,1,0,160
+3713,house,independent,sector 41,4.25,26235,1620,Plot area 180(150.5 sq.m.),10,9,3+,4,North,Moderately Old,,1620,,1,1,0,0,0,0,36,162
+3155,house,independent,sector 4,1.1,11111,990,Built Up area: 990 (91.97 sq.m.),6,4,1,2,North,Undefined,,990,,0,0,0,0,0,1,0,165
+3777,house,sector 38 rwa,sector 38,4.3,28782,1494,Plot area 166(138.8 sq.m.)Built Up area: 165 sq.yards (137.96 sq.m.)Carpet area: 164 sq.yards (137.12 sq.m.),9,9,3+,3,East,Relatively New,,165,164,0,0,0,1,1,0,41,166
+3228,house,independent,sector 12,0.65,6500,1000,Carpet area: 1000 (92.9 sq.m.),6,2,3,1,,Undefined,,,1000,0,0,0,0,0,1,0,166.6666667
+3251,house,shri shyam residency,sector 104,0.62,12400,500,Plot area 500(46.45 sq.m.)Built Up area: 900 sq.ft. (83.61 sq.m.)Carpet area: 480 sq.ft. (44.59 sq.m.),3,3,1,2,,Moderately Old,,900,480,0,0,0,0,1,2,8,166.6666667
+3427,house,independent,sector 104,0.6,5128,1170,Plot area 130(108.7 sq.m.),7,3,1,2,North,Moderately Old,,1170,,0,0,0,0,0,1,0,167.1428571
+3096,house,independent,sector 12,0.9,13333,675,Built Up area: 675 (62.71 sq.m.),4,4,0,2,,Undefined,,675,,0,0,0,0,0,1,0,168.75
+3122,house,bhawani enclave,sector 12,0.42,8235,510,Plot area 565(52.49 sq.m.)Carpet area: 510 sq.ft. (47.38 sq.m.),3,3,0,2,East,New Property,,,510,0,0,0,1,0,1,0,170
+3220,house,independent,sector 4,0.6,11696,513,Plot area 57(5.3 sq.m.),3,3,1,2,,Old Property,,57,,0,0,0,0,1,1,0,171
+3438,house,independent,sector 2,3.65,23443,1557,Plot area 173(144.65 sq.m.),9,9,3+,3,West,New Property,,1557,,0,1,0,1,0,0,116,173
+3114,house,independent,sector 21,0.45,8411,535,Carpet area: 535 (49.7 sq.m.),3,2,1,1,,Undefined,,,535,0,0,0,0,0,1,0,178.3333333
+3246,house,independent,sector 9,0.35,9722,360,Plot area 40(33.45 sq.m.),2,2,1,2,South-East,Old Property,,360,,0,0,0,0,0,1,0,180
+3325,house,jacob pura,sector 12,0.35,9722,360,Built Up area: 360 (33.45 sq.m.),2,1,0,,,Old Property,,360,,0,0,0,0,0,1,0,180
+3349,house,independent,sector 3,0.85,9444,900,Carpet area: 900 (83.61 sq.m.),5,3,3,1,,Undefined,,,900,0,0,0,0,0,1,0,180
+3765,house,sector 57 huda,sector 57,3.8,26063,1458,Plot area 162(135.45 sq.m.)Built Up area: 162 sq.yards (135.45 sq.m.)Carpet area: 160 sq.yards (133.78 sq.m.),8,8,3+,4,East,Relatively New,,162,160,0,0,1,1,0,0,94,182.25
+3063,house,independent,sector 7,0.66,12000,550,Plot area 550(51.1 sq.m.),3,1,1,3,East,Relatively New,,550,,0,0,0,0,1,1,22,183.3333333
+3165,house,independent,sector 8,0.62,11273,550,Built Up area: 550 (51.1 sq.m.),3,1,0,2,,Undefined,,550,,0,0,0,0,0,1,0,183.3333333
+3217,house,independent,sector 9,0.6,10753,558,Plot area 62(51.84 sq.m.),3,3,1,2,,Relatively New,,558,,0,0,0,0,0,1,0,186
+116,flat,czar mahira homes 63a,sector 63,0.42,7407,567,Carpet area: 567 (52.68 sq.m.),3,2,2,1,,Undefined,,,567,0,0,0,0,0,1,0,189
+3210,house,independent,sector 12,6,35088,1710,Plot area 190(17.65 sq.m.)Carpet area: 1600 sq.ft. (148.64 sq.m.),9,6,2,2,North-East,Old Property,,,1600,0,0,0,0,0,1,0,190
+3297,house,rattan garden,sector 7,1.3,13499,963,Built Up area: 963 (89.47 sq.m.),5,3,2,3,,Old Property,,963,,0,0,0,0,0,1,0,192.6
+3399,house,independent,sector 3,0.8,8155,981,Plot area 109(91.14 sq.m.),5,4,1,2,,Moderately Old,,981,,0,0,0,0,0,1,0,196.2
+3264,house,independent,sector 105,1.2,10118,1186,Plot area 1185.51(110.14 sq.m.),6,2,1,2,North-West,Old Property,,1185.51,,0,0,0,0,0,1,9,197.6666667
+3094,house,independent,sector 7,1.16,11717,990,Carpet area: 110 (91.97 sq.m.),5,4,2,1,North-East,Undefined,,,110,0,0,0,0,0,1,0,198
+3529,house,independent,sector 2,1.15,19360,594,Plot area 66(55.18 sq.m.),3,3,2,2,South-East,Old Property,,594,,0,0,0,0,0,0,32,198
+3145,house,independent,sector 7,1.16,11694,992,Plot area 992(92.16 sq.m.)Carpet area: 992 sq.ft. (92.16 sq.m.),5,4,2,3,North-East,Moderately Old,,,992,0,0,0,0,1,1,39,198.4
+2355,flat,breez global heights 88a,sector 88a,0.5,8375,597,Carpet area: 597 (55.46 sq.m.),3,2,2,2,,Undefined,,,597,0,0,0,0,0,1,15,199
+3075,house,independent,sector 6,0.5,8333,600,Plot area 600(55.74 sq.m.),3,3,2,2,East,Moderately Old,,600,,0,0,0,1,0,1,0,200
+3141,house,independent,sector 12,2.5,13889,1800,Plot area 1800(167.23 sq.m.),9,5,2,1,South-East,Old Property,,1800,,0,0,0,1,0,1,8,200
+3276,house,madan puri,sector 7,0.75,12500,600,Plot area 600(55.74 sq.m.),3,5,3,3,South-East,Moderately Old,,600,,0,0,0,0,0,1,0,200
+3787,house,huda floor,sector 38,4,22222,1800,Plot area 1800(167.23 sq.m.)Built Up area: 4800 sq.ft. (445.93 sq.m.)Carpet area: 3800 sq.ft. (353.03 sq.m.),9,9,3+,2,East,Relatively New,,4800,3800,0,0,1,1,0,0,152,200
+3211,house,independent,sector 8,0.82,10224,802,Carpet area: 802 (74.51 sq.m.),4,4,0,2,,Undefined,,,802,0,0,0,0,0,1,0,200.5
+3240,house,independent,sector 11,2.1,17284,1215,Plot area 135(112.88 sq.m.),6,6,3+,3,,Relatively New,,1215,,0,0,0,0,0,1,14,202.5
+3177,house,independent,sector 6,0.66,10784,612,Plot area 612(56.86 sq.m.),3,2,1,2,,Old Property,,612,,0,0,0,0,0,1,36,204
+3458,house,independent,sector 45,4.49,24455,1836,Plot area 204(170.57 sq.m.),9,9,3+,3,North-West,Moderately Old,,1836,,0,0,0,0,1,0,90,204
+3366,house,independent,sector 12,1.2,14184,846,Plot area 846(78.6 sq.m.)Built Up area: 846 sq.ft. (78.6 sq.m.),4,4,2,2,North,Relatively New,,846,,0,0,0,1,0,0,7,211.5
+1904,flat,gls avenue 51,sector 92,0.5,7812,640,Super Built up area 640(59.46 sq.m.),3,3,1,0,,Relatively New,640,,,0,0,0,0,0,1,0,213.3333333
+1911,flat,gls avenue 51,sector 92,0.42,6562,640,Carpet area: 640 (59.46 sq.m.),3,3,1,2,,Relatively New,,,640,0,0,0,0,0,1,20,213.3333333
+1939,flat,gls avenue 51,sector 92,0.5,7812,640,Carpet area: 640 (59.46 sq.m.),3,3,1,12,,New Property,,,640,0,0,0,0,0,2,95,213.3333333
+1634,flat,gls avenue 51,sector 92,0.39,6075,642,Carpet area: 641.74 (59.62 sq.m.),3,3,3+,6,North,Relatively New,,,641.743718,0,0,0,0,0,1,104,214
+3338,house,independent,sector 7,1.2,11194,1072,Built Up area: 1072 (99.59 sq.m.),5,4,2,3,,Undefined,,1072,,0,0,0,0,0,1,0,214.4
+1312,flat,rof ananda,sector 95,0.37,5745,644,Carpet area: 644.12 (59.84 sq.m.),3,2,1,6,South-East,Relatively New,,,644.111776,0,0,0,1,0,0,72,214.6666667
+1313,flat,rof ananda,sector 95,0.38,5901,644,Carpet area: 644.12 (59.84 sq.m.),3,2,1,2,South-East,Relatively New,,,644.111776,0,0,0,1,0,0,66,214.6666667
+704,flat,signature global solera,sector 107,0.5,7752,645,Carpet area: 645 (59.92 sq.m.),3,2,2,6,South-East,Relatively New,,,645,0,0,0,0,1,1,15,215
+705,flat,signature global solera,sector 107,0.52,8062,645,Carpet area: 645 (59.92 sq.m.),3,2,2,5,East,Relatively New,,,645,0,0,0,0,1,1,15,215
+1130,flat,signature global solera,sector 107,0.5,7752,645,Carpet area: 645 (59.92 sq.m.),3,2,2,6,North-East,Relatively New,,,645,0,0,0,0,1,1,49,215
+1144,flat,signature global solera,sector 107,0.51,7907,645,Carpet area: 645 (59.92 sq.m.),3,2,2,9,South,Relatively New,,,645,0,0,0,0,1,1,15,215
+2254,flat,rof ananda,sector 95,0.55,8527,645,Super Built up area 1000(92.9 sq.m.)Carpet area: 645 sq.ft. (59.92 sq.m.),3,2,2,14,East,New Property,1000,,645,1,0,0,0,0,0,81,215
+3457,house,dlf city plots phase 2,sector 25,6.5,33592,1935,Plot area 215(179.77 sq.m.),9,9,3+,3,West,Old Property,,1935,,1,1,1,1,0,0,142,215
+3599,house,independent,sector 47,5.15,26615,1935,Plot area 215(179.77 sq.m.),9,9,3+,3,East,Relatively New,,1935,,0,0,1,0,0,0,75,215
+3701,house,independent,sector 43,5.3,27390,1935,Plot area 215(179.77 sq.m.),9,9,3+,3,East,Moderately Old,,1935,,0,1,0,0,0,0,71,215
+3282,house,independent,sector 6,1.25,11574,1080,Plot area 120(100.34 sq.m.)Built Up area: 120 sq.yards (100.34 sq.m.),5,5,1,2,South,New Property,,120,,0,0,0,1,0,1,0,216
+3364,house,independent,sector 28,0.7,8102,864,Plot area 864(80.27 sq.m.),4,2,0,2,North,Old Property,,864,,0,0,0,0,0,1,7,216
+3405,house,independent,sector 24,3.5,32407,1080,Plot area 120(100.34 sq.m.),5,4,3,3,North-West,Old Property,,1080,,0,0,0,0,0,1,15,216
+2509,flat,central park flower valley,sector 33,1.4,21538,650,Super Built up area 650(60.39 sq.m.),3,3,3,2,,Under Construction,650,,,0,0,0,0,0,1,54,216.6666667
+2965,house,independent,sector 25,7.6,38756,1961,Plot area 215(179.77 sq.m.),9,9,3,4,East,Relatively New,,1935,,1,0,1,1,0,0,84,217.8888889
+3202,house,independent,sector 3,1.1,10000,1100,Built Up area: 1100 (102.19 sq.m.)Carpet area: 900 sq.ft. (83.61 sq.m.),5,4,2,1,East,Undefined,,1100,900,0,0,0,0,0,1,0,220
+3281,house,independent,sector 12,1.35,12217,1105,Plot area 150(125.42 sq.m.)Built Up area: 2052 sq.yards (1715.73 sq.m.),5,5,1,3,,Old Property,,2052,,0,0,0,0,0,1,31,221
+3520,house,independent,sector 4,0.47,10609,443,Plot area 49(40.97 sq.m.)Built Up area: 50 sq.yards (41.81 sq.m.)Carpet area: 48 sq.yards (40.13 sq.m.),2,2,1,2,East,New Property,,50,48,1,0,0,0,0,0,73,221.5
+3081,house,independent,sector 1,1.1,6173,1782,Plot area 1782(165.55 sq.m.),8,8,0,1,,New Property,,1782,,0,0,0,0,0,1,0,222.75
+773,flat,prime habitat,sector 99,0.27,6054,446,Carpet area: 448 (41.62 sq.m.),2,2,1,10,South,Relatively New,,,448,0,0,0,0,0,1,67,223
+1963,flat,laxmi pareena,sector 99,0.3,6667,450,Carpet area: 450 (41.81 sq.m.),2,1,0,12,North,Undefined,,,450,0,0,0,0,0,1,0,225
+3078,house,independent,sector 105,0.35,7778,450,Carpet area: 500 (46.45 sq.m.),2,2,1,2,East,Undefined,,,500,0,0,0,0,0,1,0,225
+3083,house,independent,sector 8,0.82,9111,900,Plot area 100(83.61 sq.m.),4,3,3,2,North,Moderately Old,,900,,0,0,0,0,0,1,12,225
+3087,house,housing board colony,sector 28,3.5,25926,1350,Plot area 150(125.42 sq.m.),6,6,3,3,,Relatively New,,1350,,0,0,0,0,0,1,0,225
+3089,house,independent,sector 26,6,33333,1800,Plot area 200(167.23 sq.m.),8,5,3+,3,,Old Property,,1800,,0,0,0,0,0,0,9,225
+3090,house,shivpuri,sector 7,2.8,12444,2250,Plot area 2250(209.03 sq.m.),10,7,3,1,,Old Property,,2250,,1,1,0,1,1,0,0,225
+3162,house,independent,sector 105,0.37,8222,450,Plot area 450(41.81 sq.m.),2,2,1,1,,Moderately Old,,450,,0,0,0,0,1,1,0,225
+3175,house,independent,sector 7,0.95,21111,450,Plot area 450(41.81 sq.m.),2,1,1,3,,New Property,,450,,0,0,0,0,0,1,15,225
+3194,house,independent,sector 4,1.1,6111,1800,Plot area 200(167.23 sq.m.),8,4,3+,2,West,Old Property,,1800,,0,0,0,0,0,1,7,225
+3273,house,independent,sector 8,0.32,7111,450,Built Up area: 450 (41.81 sq.m.)Carpet area: 300 sq.ft. (27.87 sq.m.),2,3,1,1,North-East,Relatively New,,450,300,0,0,0,0,0,1,0,225
+3284,house,naman residency,sector 4,0.5,11111,450,Plot area 450(41.81 sq.m.),2,2,2,2,West,New Property,,450,,1,1,0,1,1,1,14,225
+3302,house,independent,sector 105,0.38,8444,450,Carpet area: 50 (4.65 sq.m.),2,2,2,1,,Undefined,,,50,0,0,0,0,0,1,0,225
+3328,house,"nirmal enclave, maruti kunj road",sector 11,0.24,5333,450,Plot area 450(41.81 sq.m.),2,2,0,2,North,Relatively New,,450,,0,0,0,0,0,1,0,225
+3370,house,independent,sector 11,3.5,15556,2250,Built Up area: 2250 (209.03 sq.m.),10,1,0,1,,New Property,,2250,,0,0,0,0,0,1,0,225
+3046,house,independent,sector 4,0.67,9795,684,Plot area 76(7.06 sq.m.),3,3,2,2,South,Relatively New,,76,,0,0,0,0,1,1,7,228
+3064,house,huda ashok vihar phase,sector 4,0.7,10234,684,Plot area 684(63.55 sq.m.),3,2,1,2,North-East,New Property,,684,,1,0,0,0,0,1,7,228
+2474,flat,ramsons kshitij,sector 95,0.4,5839,685,Carpet area: 685 (63.64 sq.m.),3,2,2,6,,Undefined,,,685,0,0,0,0,0,1,0,228.3333333
+335,flat,mvn athens,sohna road,0.27,5895,458,Carpet area: 457.81 (42.53 sq.m.),2,2,1,4,South-East,Relatively New,,,457.788667,0,0,0,0,1,0,35,229
+2631,flat,mvn athens,sohna road,0.27,5895,458,Carpet area: 457.52 (42.5 sq.m.),2,2,1,0,,Relatively New,,,457.46575,0,0,0,0,0,0,69,229
+3526,house,independent,sector 46,4.35,23693,1836,Plot area 204(170.57 sq.m.),8,8,2,3,North-East,Relatively New,,1836,,1,0,0,1,0,0,19,229.5
+3570,house,independent,sector 10,3.6,19608,1836,Plot area 204(170.57 sq.m.),8,4,3,3,North,Moderately Old,,1836,,0,0,0,1,0,0,28,229.5
+1953,flat,signature global the millennia 3,sector 37,0.5,7143,700,Carpet area: 700 (65.03 sq.m.),3,3,2,2,,Undefined,,,700,0,0,0,0,0,1,31,233.3333333
+2646,flat,gls arawali homes,sohna road,0.28,5983,468,Carpet area: 468 (43.48 sq.m.),2,2,2,3,,Relatively New,,,468,0,0,0,0,0,1,42,234
+198,flat,supertech basera,sector 79,0.36,7643,471,Built Up area: 546 (50.73 sq.m.)Carpet area: 471 sq.ft. (43.76 sq.m.),2,2,1,4,,New Property,,546,471,0,0,0,0,0,1,60,235.5
+1242,flat,pivotal devaan,sector 84,0.36,7595,474,Super Built up area 583(54.16 sq.m.)Carpet area: 481 sq.ft. (44.69 sq.m.),2,2,1,9,West,Relatively New,583,,481,0,0,1,0,0,2,80,237
+2281,flat,gls arawali homes,sohna road,0.32,6723,476,Built Up area: 476 (44.22 sq.m.),2,1,0,0,,Undefined,,476,,0,0,0,0,0,1,0,238
+1138,flat,signature global solera,sector 107,0.28,5833,480,Carpet area: 489 (45.43 sq.m.),2,2,2,0,North-East,Relatively New,,,489,0,0,0,0,0,1,45,240
+1146,flat,signature global solera,sector 107,0.28,5833,480,Carpet area: 489 (45.43 sq.m.),2,2,2,11,South,Relatively New,,,489,0,0,0,0,0,1,45,240
+3040,house,independent,sector 105,0.65,9028,720,Plot area 80(66.89 sq.m.),3,2,1,1,East,Relatively New,,720,,0,0,0,1,1,1,14,240
+3186,house,iffco nagar and 17b rwa,sector 17,3.5,24306,1440,Plot area 1440(133.78 sq.m.),6,5,3,3,East,Old Property,,1440,,0,0,0,0,0,1,44,240
+3255,house,independent,sector 17,3.5,24306,1440,Built Up area: 160 (14.86 sq.m.),6,6,3+,3,North-West,Undefined,,160,,0,0,0,0,0,1,0,240
+3519,house,unitech south city,sector 50,5.88,27222,2160,Plot area 240(200.67 sq.m.),9,9,3+,3,East,Relatively New,,2160,,1,1,0,1,1,2,128,240
+1245,flat,pivotal devaan,sector 84,0.35,7277,481,Super Built up area 583(54.16 sq.m.)Carpet area: 481 sq.ft. (44.69 sq.m.),2,2,1,10,West,Relatively New,583,,481,0,0,1,0,0,1,103,240.5
+2069,flat,gls arawali homes,sohna road,0.29,6029,481,Carpet area: 480.53 (44.64 sq.m.),2,2,2,9,East,Relatively New,,,480.500496,0,0,0,0,0,1,55,240.5
+2273,flat,mvn athens,sohna road,0.25,5198,481,Built Up area: 481 (44.69 sq.m.),2,2,0,0,,Relatively New,,481,,0,0,0,0,0,1,37,240.5
+2292,flat,gls arawali homes,sohna road,0.3,6237,481,Super Built up area 567(52.68 sq.m.)Carpet area: 480.53 sq.ft. (44.64 sq.m.),2,2,2,4,East,Relatively New,567,,480.53,0,0,0,0,0,2,120,240.5
+129,flat,mvn athens,sohna road,0.26,5394,482,Carpet area: 481.74 (44.76 sq.m.),2,2,1,2,,Relatively New,,,481.792164,0,0,0,0,0,1,37,241
+1155,flat,tulip lemon,sector 69,0.62,12863,482,Carpet area: 482 (44.78 sq.m.),2,2,1,4,North-East,Relatively New,,,482,0,0,0,0,0,0,108,241
+1204,flat,conscient habitat,sector 99,0.27,5602,482,Carpet area: 484 (44.97 sq.m.),2,2,1,8,South-West,Relatively New,,,484,0,0,0,0,1,1,49,241
+2517,flat,mvn athens,sohna road,0.26,5394,482,Carpet area: 481.73 (44.75 sq.m.),2,2,1,5,,Relatively New,,,481.684525,0,0,0,0,0,1,95,241
+2714,flat,mvn athens,sohna road,0.25,5187,482,Carpet area: 481.73 (44.75 sq.m.),2,2,1,0,North,Relatively New,,,481.684525,0,0,0,1,0,1,90,241
+2868,flat,mvn athens,sohna road,0.25,5187,482,Carpet area: 481.73 (44.75 sq.m.),2,2,1,3,East,Relatively New,,,481.684525,0,0,0,0,0,1,51,241
+1243,flat,pivotal devaan,sector 84,0.34,7039,483,Carpet area: 483 (44.87 sq.m.),2,2,1,1,East,Relatively New,,,483,0,0,1,0,0,0,84,241.5
+2149,flat,pivotal devaan,sector 84,0.35,7246,483,Carpet area: 483 (44.87 sq.m.),2,2,2,4,East,Relatively New,,,483,0,0,0,0,0,1,37,241.5
+3786,house,iffco nagar and 17b rwa,sector 17,2.98,20566,1449,Plot area 161(134.62 sq.m.),6,6,3+,3,East,Relatively New,,1449,,1,0,0,1,0,1,78,241.5
+3245,house,huda housing board colony,sector 31,4.6,31507,1460,Plot area 1460(135.64 sq.m.),6,4,3+,3,East,Old Property,,1460,,0,0,0,0,1,1,8,243.3333333
+560,flat,signature global solera,sector 107,0.27,5521,489,Carpet area: 489 (45.43 sq.m.),2,2,2,0,North-East,Relatively New,,,489,0,0,0,0,0,1,45,244.5
+706,flat,signature global solera,sector 107,0.28,5726,489,Carpet area: 489 (45.43 sq.m.),2,2,2,6,West,Relatively New,,,489,0,0,0,0,0,1,45,244.5
+707,flat,signature global solera,sector 107,0.29,5930,489,Carpet area: 489 (45.43 sq.m.),2,2,2,3,East,Relatively New,,,489,0,0,0,0,0,1,45,244.5
+1141,flat,signature global solera,sector 107,0.28,5726,489,Carpet area: 489 (45.43 sq.m.),2,2,2,10,South,Relatively New,,,489,0,0,0,0,0,1,38,244.5
+1823,flat,signature global solera,sector 107,0.3,6135,489,Super Built up area 602(55.93 sq.m.)Carpet area: 489 sq.ft. (45.43 sq.m.),2,2,1,5,East,Relatively New,602,,489,0,0,0,0,0,1,57,244.5
+2992,house,uppal southend,sector 49,3.75,25562,1467,Plot area 163(136.29 sq.m.),6,6,3,3,East,Moderately Old,,1467,,0,0,0,0,1,1,49,244.5
+3290,house,independent,sector 47,4.3,29312,1467,Plot area 163(136.29 sq.m.),6,4,2,2,,Moderately Old,,1467,,0,0,0,0,1,1,0,244.5
+3733,house,uppal southend,sector 49,3.75,25562,1467,Built Up area: 163 (136.29 sq.m.),6,6,3+,3,East,Moderately Old,,163,,1,0,0,0,0,0,26,244.5
+561,flat,signature global solera,sector 107,0.28,5680,493,Carpet area: 489 (45.43 sq.m.),2,2,2,6,West,Relatively New,,,489,0,0,0,0,0,1,45,246.5
+1139,flat,signature global solera,sector 107,0.28,5680,493,Carpet area: 489 (45.43 sq.m.),2,2,2,11,North,Relatively New,,,489,0,0,0,0,0,1,29,246.5
+3322,house,independent,sector 47,4.6,26620,1728,Plot area 192(160.54 sq.m.),7,6,3+,4,,Moderately Old,,1728,,0,0,0,0,0,2,51,246.8571429
+900,flat,pyramid urban homes 2,sector 86,0.41,8283,495,Carpet area: 501 (46.54 sq.m.),2,2,1,7,West,New Property,,,501,1,1,0,1,1,1,49,247.5
+1401,flat,pyramid urban homes 2,sector 86,0.42,8485,495,Carpet area: 501 (46.54 sq.m.),2,2,1,2,North-East,New Property,,,501,1,1,0,1,1,1,84,247.5
+2780,flat,zara aavaas,sector 104,0.49,6577,745,Super Built up area 745(69.21 sq.m.)Carpet area: 645 sq.ft. (59.92 sq.m.),3,2,2,7,,Under Construction,745,,645,0,0,0,0,0,1,74,248.3333333
+2906,flat,prime habitat,sector 99,0.27,5433,497,Carpet area: 497 (46.17 sq.m.),2,2,1,4,North-East,New Property,,,497,0,0,0,0,0,1,7,248.5
+1140,flat,signature global solera,sector 107,0.28,5622,498,Carpet area: 489 (45.43 sq.m.),2,2,2,14,North-West,Relatively New,,,489,0,0,0,0,0,1,38,249
