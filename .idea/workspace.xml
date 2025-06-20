@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="451d5995-8068-448a-bf5b-9227c2f0b8b1" name="Changes" comment="do it">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/1_Price_Prediction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/2_AnalysisApp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/PythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/model_selection-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/model_selection-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/df.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/df.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_selection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model_selection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/1_Price_Prediction.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/1_Price_Prediction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/2_AnalysisApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/2_AnalysisApp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipeline.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/pipeline.pkl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +44,11 @@
     &quot;accountId&quot;: &quot;e79bbf4e-2760-4c16-bbb4-d681ea5480c8&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Home.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pages/1_Price_Prediction.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pages/2_AnalysisApp.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -55,7 +65,11 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.1_Price_Prediction.executor": "Run",
+    "Python.Home.executor": "Run",
+    "Python.Streamlit App.executor": "Run",
+    "Python.demo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -63,6 +77,31 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Streamlit App" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 virtualenv at C:\Users\SWAPN\OneDrive\Desktop\Envs\base_env" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\SWAPN\OneDrive\Desktop\Data_science\RealEstate-Capstone-Analytics " />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home.py" />
+      <option name="PARAMETERS" value="run Home.py" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -166,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750258241316</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="do it">
+      <option name="closed" value="true" />
+      <created>1750260941991</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1750260941991</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
