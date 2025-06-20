@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="451d5995-8068-448a-bf5b-9227c2f0b8b1" name="Changes" comment="do it">
-      <change afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/model_selection-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/model_selection-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/df.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/df.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model_selection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model_selection.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/1_Price_Prediction.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/1_Price_Prediction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/2_AnalysisApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/2_AnalysisApp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pipeline.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/pipeline.pkl" afterDir="false" />
-    </list>
+    <list default="true" id="451d5995-8068-448a-bf5b-9227c2f0b8b1" name="Changes" comment="do it" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,12 +26,12 @@
     &quot;assignee&quot;: &quot;Swapn2&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Swapn2/RealEstate-Capstone-Analytics.git&quot;,
-    &quot;accountId&quot;: &quot;e79bbf4e-2760-4c16-bbb4-d681ea5480c8&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Swapn2/RealEstate-Capstone-Analytics.git",
+    "accountId": "4c495c13-1681-4c42-b4a0-3d60a845d21c"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Home.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/pages/1_Price_Prediction.py" root0="SKIP_INSPECTION" />
@@ -213,7 +201,23 @@
       <option name="project" value="LOCAL" />
       <updated>1750260941991</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="do it">
+      <option name="closed" value="true" />
+      <created>1750406127912</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1750406127912</updated>
+    </task>
+    <task id="LOCAL-00014" summary="do it">
+      <option name="closed" value="true" />
+      <created>1750406510712</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1750406510712</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
