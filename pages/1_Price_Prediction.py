@@ -60,3 +60,4 @@ if st.button('Predict'):
     # display
     st.text('The Price Of the {} is between  {} Cr and  {}  Cr'.format(property_type, round(low_price,2),round(high_price,2)))
 
+#3

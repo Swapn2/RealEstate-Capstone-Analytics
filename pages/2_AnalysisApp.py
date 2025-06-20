@@ -99,3 +99,4 @@ fig.add_trace(go.Scatter(x=x_flat, y=y_flat, mode='lines', name='Flat'))
 fig.update_layout(title='Price Distribution: House vs Flat',
                   xaxis_title='Price', yaxis_title='Density')
 st.plotly_chart(fig)
+
