@@ -1,6 +1,3 @@
-
-
-readme_content = """
 # 🏙️ Real Estate Capstone Project – Gurgaon Housing Analytics Platform
 
 This project is a full-stack, data science–driven web application for analyzing and predicting real estate trends in **Gurgaon**, built using **Streamlit** with a **multi-page architecture**.
@@ -113,8 +110,3 @@ This project is a full-stack, data science–driven web application for analyzin
 5. Integrate **open datasets** (e.g., `data.gov.in`) for macro insights.
 """
 
-# Save to README.md
-with open("/mnt/data/README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-"/mnt/data/README.md"
