@@ -1,4 +1,4 @@
-# Creating a README.md file content based on the provided project details
+
 
 readme_content = """
 # 🏙️ Real Estate Capstone Project – Gurgaon Housing Analytics Platform
