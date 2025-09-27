@@ -8,8 +8,18 @@ st.set_page_config(page_title = 'Viz Demo')
 with open('df.pkl' , 'rb') as file:
     df = pickle.load(file)
 
-with open('pipeline.pkl' , 'rb') as file:
+# with open('pipeline.pkl' , 'rb') as file:
+#     pipeline = pickle.load(file)
+import os
+import pickle  # make sure pickle is imported
+
+# path relative to the current script
+BASE_DIR = os.path.join(os.path.dirname(__file__), '..')
+pipeline_path = os.path.join(BASE_DIR, 'pipeline.pkl')
+
+with open(pipeline_path, 'rb') as file:
     pipeline = pickle.load(file)
+
 # st.dataframe(df)
 
 
@@ -59,5 +69,6 @@ if st.button('Predict'):
 
     # display
     st.text('The Price Of the {} is between  {} Cr and  {}  Cr'.format(property_type, round(low_price,2),round(high_price,2)))
+
 
 #
