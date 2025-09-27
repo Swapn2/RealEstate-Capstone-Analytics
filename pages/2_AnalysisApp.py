@@ -21,7 +21,9 @@ with open('feature_text.pkl', 'rb') as f:
 
 
 
-new_df = pd.read_csv('C:/Users/SWAPN/OneDrive/Desktop/DS_projet/RealEstate-Capstone-Analytics/data_viz1.csv')
+# new_df = pd.read_csv('C:/Users/SWAPN/OneDrive/Desktop/DS_projet/RealEstate-Capstone-Analytics/data_viz1.csv')
+new_df = pd.read_csv('data_viz1.csv')
+
 # st.dataframe(new_df)
 
 group_df = new_df[['sector', 'price', 'price_per_sqft', 'built_up_area', 'latitude', 'longitude']].groupby('sector').mean()
@@ -103,6 +105,7 @@ fig.add_trace(go.Scatter(x=x_flat, y=y_flat, mode='lines', name='Flat'))
 fig.update_layout(title='Price Distribution: House vs Flat',
                   xaxis_title='Price', yaxis_title='Density')
 st.plotly_chart(fig)
+
 
 
 
