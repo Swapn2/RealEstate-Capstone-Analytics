@@ -31,11 +31,9 @@ df_path = os.path.join(BASE_DIR, 'df.pkl')
 with open(df_path, 'rb') as f:
     df = pickle.load(f)
 
-# Load pipeline.pkl (compressed with joblib)
-pipeline_path = os.path.join(BASE_DIR, 'pipeline.pkl')
+# Load pipeline_compressed.pkl (compressed with joblib)
+pipeline_path = os.path.join(BASE_DIR, 'pipeline_compressed.pkl')
 pipeline = joblib.load(pipeline_path)
-
-
 
 # st.dataframe(df)
 
@@ -89,6 +87,7 @@ if st.button('Predict'):
 
 
 #
+
 
 
 
