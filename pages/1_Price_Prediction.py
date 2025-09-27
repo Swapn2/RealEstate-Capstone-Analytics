@@ -8,6 +8,9 @@ st.set_page_config(page_title = 'Viz Demo')
 import os
 import pickle
 
+import os
+import pickle
+
 # Base directory relative to the current script
 BASE_DIR = os.path.join(os.path.dirname(__file__), '..')
 
@@ -21,9 +24,6 @@ pipeline_path = os.path.join(BASE_DIR, 'pipeline.pkl')
 with open(pipeline_path, 'rb') as f:
     pipeline = pickle.load(f)
 
-
-with open(pipeline_path, 'rb') as file:
-    pipeline = pickle.load(file)
 
 # st.dataframe(df)
 
@@ -77,4 +77,5 @@ if st.button('Predict'):
 
 
 #
+
 
