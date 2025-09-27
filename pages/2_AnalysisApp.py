@@ -15,7 +15,17 @@ st.set_page_config(page_title='plotting Demo')
 
 st.title('Page 1')
 
-feature_text = pickle.load(open('C:/Users/SWAPN/OneDrive/Desktop/DS_projet/RealEstate-Capstone-Analytics/feature_text.pkl' , 'rb'))
+# feature_text = pickle.load(open('C:/Users/SWAPN/OneDrive/Desktop/DS_projet/RealEstate-Capstone-Analytics/feature_text.pkl' , 'rb'))
+import os
+import pickle
+
+BASE_DIR = os.path.join(os.path.dirname(__file__), '..')
+
+# Load feature_text.pkl
+feature_text_path = os.path.join(BASE_DIR, 'feature_text.pkl')
+with open(feature_text_path, 'rb') as f:
+    feature_text = pickle.load(f)
+
 
 new_df = pd.read_csv('C:/Users/SWAPN/OneDrive/Desktop/DS_projet/RealEstate-Capstone-Analytics/data_viz1.csv')
 # st.dataframe(new_df)
@@ -99,4 +109,5 @@ fig.add_trace(go.Scatter(x=x_flat, y=y_flat, mode='lines', name='Flat'))
 fig.update_layout(title='Price Distribution: House vs Flat',
                   xaxis_title='Price', yaxis_title='Density')
 st.plotly_chart(fig)
+
 
