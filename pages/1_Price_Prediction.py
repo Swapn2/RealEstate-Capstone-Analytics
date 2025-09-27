@@ -11,9 +11,13 @@ st.set_page_config(page_title = 'Viz Demo')
 with open('df.pkl' , 'rb') as file:
     df = pickle.load(file)
 
-with open('pipeline.pkl' , 'rb') as file:
-    pipeline = pickle.load(file)
-# st.dataframe(df)
+# with open('pipeline.pkl' , 'rb') as file:
+#     pipeline = pickle.load(file)
+# # st.dataframe(df)
+
+import joblib
+pipeline = joblib.load('pipeline.pkl')
+
 
 
 
@@ -70,6 +74,7 @@ if st.button('Predict'):
 
 
 #
+
 
 
 
