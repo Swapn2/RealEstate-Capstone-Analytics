@@ -6,8 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="451d5995-8068-448a-bf5b-9227c2f0b8b1" name="Changes" comment="do it">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/data_viz-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/data_viz-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appartments.csv" beforeDir="false" afterPath="$PROJECT_DIR$/appartments.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Real estate capstone project.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Real estate capstone project.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_line_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/base_line_model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eda-univariate-analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eda-univariate-analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature-engineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/feature-engineering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature_selection_engineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/feature_selection_engineering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merged_data_clean.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/merged_data_clean.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/missing_value_imputation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/missing_value_imputation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multivariate_analysis_EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/multivariate_analysis_EDA.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outlier_treatment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/outlier_treatment.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/1_Price_Prediction.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/1_Price_Prediction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/2_AnalysisApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/2_AnalysisApp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/3_Recommned Appartments.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/3_Recommned Appartments.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,23 +62,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.1_Price_Prediction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Home.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Streamlit App.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/SWAPN/OneDrive/Desktop/Data_science/RealEstate-Capstone-Analytics&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1_Price_Prediction.executor": "Run",
+    "Python.Home.executor": "Run",
+    "Python.Streamlit App.executor": "Run",
+    "Python.demo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/SWAPN/OneDrive/Desktop/DS_projet/RealEstate-Capstone-Analytics",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Streamlit App" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonProject1" />
@@ -245,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750425181063</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="do it">
+      <option name="closed" value="true" />
+      <created>1750453404665</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1750453404665</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

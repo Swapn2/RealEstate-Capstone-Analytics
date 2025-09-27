@@ -15,9 +15,9 @@ st.set_page_config(page_title='plotting Demo')
 
 st.title('Page 1')
 
-feature_text = pickle.load(open('C:/Users/SWAPN/OneDrive/Desktop/Data_science/RealEstate-Capstone-Analytics/feature_text.pkl' , 'rb'))
+feature_text = pickle.load(open('C:/Users/SWAPN/OneDrive/Desktop/DS_projet/RealEstate-Capstone-Analytics/feature_text.pkl' , 'rb'))
 
-new_df = pd.read_csv('C:/Users/SWAPN/OneDrive/Desktop/Data_science/RealEstate-Capstone-Analytics/data_viz1.csv')
+new_df = pd.read_csv('C:/Users/SWAPN/OneDrive/Desktop/DS_projet/RealEstate-Capstone-Analytics/data_viz1.csv')
 # st.dataframe(new_df)
 
 group_df = new_df[['sector', 'price', 'price_per_sqft', 'built_up_area', 'latitude', 'longitude']].groupby('sector').mean()
