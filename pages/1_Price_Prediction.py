@@ -7,33 +7,33 @@ st.set_page_config(page_title = 'Viz Demo')
 
 
 
-# Base directory relative to the current script
-# with open('df.pkl' , 'rb') as file:
-#     df = pickle.load(file)
+Base directory relative to the current script
+with open('df.pkl' , 'rb') as file:
+    df = pickle.load(file)
 
-# with open('pipeline.pkl' , 'rb') as file:
-#     pipeline = pickle.load(file)
+with open('pipeline.pkl' , 'rb') as file:
+    pipeline = pickle.load(file)
 # # st.dataframe(df)
 
-import pickle
-import joblib
-import os
+# import pickle
+# import joblib
+# import os
 
-import os
-import joblib
-import pickle
+# import os
+# import joblib
+# import pickle
 
-# Base directory is the parent of the pages folder
-BASE_DIR = os.path.join(os.path.dirname(__file__), '..')
+# # Base directory is the parent of the pages folder
+# BASE_DIR = os.path.join(os.path.dirname(__file__), '..')
 
-# Load df.pkl
-df_path = os.path.join(BASE_DIR, 'df.pkl')
-with open(df_path, 'rb') as f:
-    df = pickle.load(f)
+# # Load df.pkl
+# df_path = os.path.join(BASE_DIR, 'df.pkl')
+# with open(df_path, 'rb') as f:
+#     df = pickle.load(f)
 
-# Load compressed pipeline
-pipeline_path = os.path.join(BASE_DIR, 'pipeline_compressed.pkl')
-pipeline = joblib.load(pipeline_path)
+# # Load compressed pipeline
+# pipeline_path = os.path.join(BASE_DIR, 'pipeline_compressed.pkl')
+# pipeline = joblib.load(pipeline_path)
 
 
 # st.dataframe(df)
@@ -88,6 +88,7 @@ if st.button('Predict'):
 
 
 #
+
 
 
 
