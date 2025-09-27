@@ -5,11 +5,7 @@ import numpy as np
 
 st.set_page_config(page_title = 'Viz Demo')
 
-import os
-import pickle
 
-import os
-import pickle
 
 # Base directory relative to the current script
 # with open('df.pkl' , 'rb') as file:
@@ -23,17 +19,22 @@ import pickle
 import joblib
 import os
 
-# Base directory relative to the current script
+import os
+import joblib
+import pickle
+
+# Base directory is the parent of the pages folder
 BASE_DIR = os.path.join(os.path.dirname(__file__), '..')
 
-# Load df.pkl (small, normal pickle)
+# Load df.pkl
 df_path = os.path.join(BASE_DIR, 'df.pkl')
 with open(df_path, 'rb') as f:
     df = pickle.load(f)
 
-# Load pipeline_compressed.pkl (compressed with joblib)
+# Load compressed pipeline
 pipeline_path = os.path.join(BASE_DIR, 'pipeline_compressed.pkl')
 pipeline = joblib.load(pipeline_path)
+
 
 # st.dataframe(df)
 
@@ -87,6 +88,7 @@ if st.button('Predict'):
 
 
 #
+
 
 
 
