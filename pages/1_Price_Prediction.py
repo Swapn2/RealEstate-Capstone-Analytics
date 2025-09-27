@@ -12,17 +12,12 @@ import os
 import pickle
 
 # Base directory relative to the current script
-BASE_DIR = os.path.join(os.path.dirname(__file__), '..')
+with open('df.pkl' , 'rb') as file:
+    df = pickle.load(file)
 
-# Load df.pkl
-df_path = os.path.join(BASE_DIR, 'df.pkl')
-with open(df_path, 'rb') as f:
-    df = pickle.load(f)
-
-# Load pipeline.pkl
-pipeline_path = os.path.join(BASE_DIR, 'pipeline.pkl')
-with open(pipeline_path, 'rb') as f:
-    pipeline = pickle.load(f)
+with open('pipeline.pkl' , 'rb') as file:
+    pipeline = pickle.load(file)
+# st.dataframe(df)
 
 
 # st.dataframe(df)
