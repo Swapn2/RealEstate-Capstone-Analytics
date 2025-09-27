@@ -4,8 +4,9 @@ st.set_page_config(
      page_icon = '$$',
  )
 
-st.write('# welcome to stream lit :>')
+st.write('# welcome to stream lit :)>')
 # st.sidebar.success('select a demo')
+
 
 
 
